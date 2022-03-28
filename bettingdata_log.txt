@@ -1,0 +1,158 @@
+2022-03-27 23:18:39,539 - my_logger - INFO - Getting data from date: 08-20-2019 
+
+2022-03-27 23:18:43,985 - my_logger - INFO - request response is 200
+2022-03-27 23:18:43,986 - my_logger - INFO - current date has no data
+2022-03-27 23:18:43,987 - my_logger - INFO - Getting data from date: 08-21-2019 
+
+2022-03-27 23:18:46,003 - my_logger - INFO - request response is 200
+2022-03-27 23:18:46,004 - my_logger - INFO - current date has no data
+2022-03-27 23:18:46,005 - my_logger - INFO - Getting data from date: 08-22-2019 
+
+2022-03-27 23:18:50,999 - my_logger - INFO - request response is 200
+2022-03-27 23:18:51,000 - my_logger - INFO - current date has no data
+2022-03-27 23:18:51,007 - my_logger - INFO - Getting data from date: 08-23-2019 
+
+2022-03-27 23:18:53,961 - my_logger - INFO - request response is 200
+2022-03-27 23:18:53,962 - my_logger - INFO - current date has no data
+2022-03-27 23:18:53,962 - my_logger - INFO - Getting data from date: 08-24-2019 
+
+2022-03-27 23:18:56,999 - my_logger - INFO - request response is 200
+2022-03-27 23:18:57,000 - my_logger - INFO - current date has no data
+2022-03-27 23:18:57,002 - my_logger - INFO - Getting data from date: 08-25-2019 
+
+2022-03-27 23:18:59,969 - my_logger - INFO - request response is 200
+2022-03-27 23:18:59,975 - my_logger - INFO - current date has no data
+2022-03-27 23:18:59,976 - my_logger - INFO - Getting data from date: 08-26-2019 
+
+2022-03-27 23:19:05,867 - my_logger - INFO - request response is 200
+2022-03-27 23:19:05,868 - my_logger - INFO - current date has no data
+2022-03-27 23:19:05,868 - my_logger - INFO - Getting data from date: 08-27-2019 
+
+2022-03-27 23:19:09,023 - my_logger - INFO - request response is 200
+2022-03-27 23:19:09,024 - my_logger - INFO - current date has no data
+2022-03-27 23:19:09,025 - my_logger - INFO - Getting data from date: 08-28-2019 
+
+2022-03-27 23:19:10,893 - my_logger - INFO - request response is 200
+2022-03-27 23:19:10,894 - my_logger - INFO - current date has no data
+2022-03-27 23:19:10,895 - my_logger - INFO - Getting data from date: 08-29-2019 
+
+2022-03-27 23:19:14,803 - my_logger - INFO - request response is 200
+2022-03-27 23:19:14,804 - my_logger - INFO - current date has no data
+2022-03-27 23:19:14,804 - my_logger - INFO - Getting data from date: 08-30-2019 
+
+2022-03-27 23:19:17,634 - my_logger - INFO - request response is 200
+2022-03-27 23:19:17,638 - my_logger - INFO - current date has no data
+2022-03-27 23:19:17,640 - my_logger - INFO - Getting data from date: 08-31-2019 
+
+2022-03-27 23:19:20,525 - my_logger - INFO - request response is 200
+2022-03-27 23:19:20,526 - my_logger - INFO - current date has no data
+2022-03-27 23:19:20,526 - my_logger - INFO - Getting data from date: 09-01-2019 
+
+2022-03-27 23:19:22,760 - my_logger - INFO - request response is 200
+2022-03-27 23:19:22,760 - my_logger - INFO - current date has no data
+2022-03-27 23:19:22,761 - my_logger - INFO - Getting data from date: 09-02-2019 
+
+2022-03-27 23:19:25,980 - my_logger - INFO - request response is 200
+2022-03-27 23:19:25,981 - my_logger - INFO - current date has no data
+2022-03-27 23:19:25,981 - my_logger - INFO - Getting data from date: 09-03-2019 
+
+2022-03-27 23:19:28,882 - my_logger - INFO - request response is 200
+2022-03-27 23:19:28,883 - my_logger - INFO - current date has no data
+2022-03-27 23:19:28,884 - my_logger - INFO - Getting data from date: 09-04-2019 
+
+2022-03-27 23:19:31,981 - my_logger - INFO - request response is 200
+2022-03-27 23:19:31,982 - my_logger - INFO - current date has no data
+2022-03-27 23:19:31,983 - my_logger - INFO - Getting data from date: 09-05-2019 
+
+2022-03-27 23:19:34,172 - my_logger - INFO - request response is 200
+2022-03-27 23:19:34,172 - my_logger - INFO - current date has no data
+2022-03-27 23:19:34,173 - my_logger - INFO - Getting data from date: 09-06-2019 
+
+2022-03-27 23:19:37,090 - my_logger - INFO - request response is 200
+2022-03-27 23:19:37,091 - my_logger - INFO - current date has no data
+2022-03-27 23:19:37,093 - my_logger - INFO - Getting data from date: 09-07-2019 
+
+2022-03-27 23:19:39,349 - my_logger - INFO - request response is 200
+2022-03-27 23:19:39,350 - my_logger - INFO - current date has no data
+2022-03-27 23:19:39,350 - my_logger - INFO - Getting data from date: 09-08-2019 
+
+2022-03-27 23:19:41,495 - my_logger - INFO - request response is 200
+2022-03-27 23:19:41,496 - my_logger - INFO - current date has no data
+2022-03-27 23:19:41,496 - my_logger - INFO - Getting data from date: 09-09-2019 
+
+2022-03-27 23:19:44,394 - my_logger - INFO - request response is 200
+2022-03-27 23:19:44,395 - my_logger - INFO - current date has no data
+2022-03-27 23:19:44,396 - my_logger - INFO - Getting data from date: 09-10-2019 
+
+2022-03-27 23:19:46,351 - my_logger - INFO - request response is 200
+2022-03-27 23:19:46,351 - my_logger - INFO - current date has no data
+2022-03-27 23:19:46,353 - my_logger - INFO - Getting data from date: 09-11-2019 
+
+2022-03-27 23:19:49,403 - my_logger - INFO - request response is 200
+2022-03-27 23:19:49,403 - my_logger - INFO - current date has no data
+2022-03-27 23:19:49,404 - my_logger - INFO - Getting data from date: 09-12-2019 
+
+2022-03-27 23:19:51,266 - my_logger - INFO - request response is 200
+2022-03-27 23:19:51,266 - my_logger - INFO - current date has no data
+2022-03-27 23:19:51,267 - my_logger - INFO - Getting data from date: 09-13-2019 
+
+2022-03-27 23:19:54,776 - my_logger - INFO - request response is 200
+2022-03-27 23:19:54,778 - my_logger - INFO - current date has no data
+2022-03-27 23:19:54,779 - my_logger - INFO - Getting data from date: 09-14-2019 
+
+2022-03-27 23:19:57,001 - my_logger - INFO - request response is 200
+2022-03-27 23:19:57,003 - my_logger - INFO - current date has no data
+2022-03-27 23:19:57,004 - my_logger - INFO - Getting data from date: 09-15-2019 
+
+2022-03-27 23:20:02,806 - my_logger - INFO - request response is 200
+2022-03-27 23:20:02,806 - my_logger - INFO - current date has no data
+2022-03-27 23:20:02,807 - my_logger - INFO - Getting data from date: 09-16-2019 
+
+2022-03-27 23:20:07,945 - my_logger - INFO - request response is 200
+2022-03-27 23:20:07,946 - my_logger - INFO - current date has no data
+2022-03-27 23:20:07,946 - my_logger - INFO - Getting data from date: 09-17-2019 
+
+2022-03-27 23:20:14,117 - my_logger - INFO - request response is 200
+2022-03-27 23:20:14,118 - my_logger - INFO - current date has no data
+2022-03-27 23:20:14,119 - my_logger - INFO - Getting data from date: 09-18-2019 
+
+2022-03-27 23:20:17,172 - my_logger - INFO - request response is 200
+2022-03-27 23:20:17,172 - my_logger - INFO - current date has no data
+2022-03-27 23:20:17,172 - my_logger - INFO - Getting data from date: 09-19-2019 
+
+2022-03-27 23:20:20,083 - my_logger - INFO - request response is 200
+2022-03-27 23:20:20,084 - my_logger - INFO - current date has no data
+2022-03-27 23:20:20,085 - my_logger - INFO - Getting data from date: 09-20-2019 
+
+2022-03-27 23:20:21,415 - my_logger - INFO - request response is 200
+2022-03-27 23:20:21,415 - my_logger - INFO - current date has no data
+2022-03-27 23:20:21,416 - my_logger - INFO - Getting data from date: 09-21-2019 
+
+2022-03-27 23:20:24,625 - my_logger - INFO - request response is 200
+2022-03-27 23:20:24,625 - my_logger - INFO - current date has no data
+2022-03-27 23:20:24,626 - my_logger - INFO - Getting data from date: 09-22-2019 
+
+2022-03-27 23:20:26,757 - my_logger - INFO - request response is 200
+2022-03-27 23:20:26,757 - my_logger - INFO - current date has no data
+2022-03-27 23:20:26,758 - my_logger - INFO - Getting data from date: 09-23-2019 
+
+2022-03-27 23:20:30,007 - my_logger - INFO - request response is 200
+2022-03-27 23:20:30,009 - my_logger - INFO - current date has no data
+2022-03-27 23:20:30,011 - my_logger - INFO - Getting data from date: 09-24-2019 
+
+2022-03-27 23:20:33,369 - my_logger - INFO - request response is 200
+2022-03-27 23:20:33,369 - my_logger - INFO - current date has no data
+2022-03-27 23:20:33,370 - my_logger - INFO - Getting data from date: 09-25-2019 
+
+2022-03-27 23:20:36,822 - my_logger - INFO - request response is 200
+2022-03-27 23:20:36,823 - my_logger - INFO - current date has no data
+2022-03-27 23:20:36,823 - my_logger - INFO - Getting data from date: 09-26-2019 
+
+2022-03-27 23:20:38,937 - my_logger - INFO - request response is 200
+2022-03-27 23:20:38,938 - my_logger - INFO - current date has no data
+2022-03-27 23:20:38,938 - my_logger - INFO - Getting data from date: 09-27-2019 
+
+2022-03-27 23:20:41,131 - my_logger - INFO - request response is 200
+2022-03-27 23:20:41,132 - my_logger - INFO - current date has no data
+2022-03-27 23:20:41,133 - my_logger - INFO - Getting data from date: 09-28-2019 
+

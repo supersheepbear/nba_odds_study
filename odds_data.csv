@@ -1,0 +1,3811 @@
+date,team,odds
+2019-11-05,Indiana,425
+2019-11-05,Charlotte,-600
+2019-11-05,Boston,-700
+2019-11-05,Cleveland,475
+2019-11-05,San Antonio,1800
+2019-11-05,Atlanta,-15000
+2019-11-05,L.A. Lakers,-15000
+2019-11-05,Chicago,1800
+2019-12-03,Orlando,-15000
+2019-12-03,Washington,1800
+2020-01-09,Boston,1800
+2020-01-09,Philadelphia,-15000
+2020-01-19,Miami,475
+2020-01-19,San Antonio,-700
+2020-01-23,Dallas,-25000
+2020-01-23,Portland,2200
+2020-01-31,Toronto,-3000
+2020-01-31,Detroit,1425
+2020-01-31,Chicago,1600
+2020-01-31,Brooklyn,-6600
+2020-01-31,Dallas,1600
+2020-01-31,Houston,-6600
+2020-01-31,Memphis,1800
+2020-01-31,New Orleans,-15000
+2020-01-31,Oklahoma City,-150
+2020-01-31,Phoenix,120
+2020-07-31,Orlando,-330
+2020-07-31,Brooklyn,265
+2020-07-31,Memphis,140
+2020-07-31,Portland,-160
+2020-07-31,Phoenix,-300
+2020-07-31,Washington,240
+2020-07-31,Houston,-120
+2020-07-31,Dallas,100
+2020-08-05,Philadelphia,-600
+2020-08-05,Washington,450
+2020-08-05,Toronto,-320
+2020-08-05,Orlando,260
+2020-08-09,Orlando,300
+2020-08-09,Boston,-380
+2020-08-09,Brooklyn,320
+2020-08-09,LA,-400
+2020-08-12,Miami,-165
+2020-08-12,Oklahoma City,145
+2020-08-12,LA,-225
+2020-08-12,Denver,185
+2020-08-17,Brooklyn,375
+2020-08-17,Toronto,-500
+2020-08-17,Philadelphia,220
+2020-08-17,Boston,-270
+2020-08-21,Denver,100
+2020-08-21,Utah,-120
+2020-09-02,Miami,205
+2020-09-02,Milwaukee,-245
+2020-09-10,L.A. Lakers,-220
+2020-09-10,Houston,180
+2020-09-12,Houston,205
+2020-09-12,L.A. Lakers,-245
+2020-09-13,LA,-380
+2020-09-13,Denver,300
+2020-09-18,Denver,240
+2020-09-18,L.A. Lakers,-300
+2020-12-22,LA,115
+2020-12-22,L.A. Lakers,-135
+2021-01-14,Miami,280
+2021-01-14,Philadelphia,-360
+2021-01-14,Houston,235
+2021-01-14,San Antonio,-290
+2021-01-14,Indiana,130
+2021-01-14,Portland,-150
+2021-01-14,Golden State,160
+2021-01-14,Denver,-180
+2021-01-20,Dallas,-140
+2021-01-20,Indiana,120
+2021-01-20,Brooklyn,-550
+2021-01-20,Cleveland,425
+2021-01-20,Boston,165
+2021-01-20,Philadelphia,-185
+2021-01-20,Miami,160
+2021-01-20,Toronto,-180
+2021-01-20,Orlando,-175
+2021-01-20,Minnesota,155
+2021-01-20,Sacramento,475
+2021-01-20,L.A. Clippers,-650
+2021-01-20,Memphis,-115
+2021-01-20,Portland,-105
+2021-01-21,New York,175
+2021-01-21,Golden State,-210
+2021-01-29,Atlanta,-165
+2021-01-29,Washington,145
+2021-01-29,Brooklyn,-270
+2021-01-29,Oklahoma City,220
+2021-01-29,Denver,-180
+2021-01-29,San Antonio,160
+2021-02-12,Minnesota,130
+2021-02-12,Charlotte,-150
+2021-02-12,New York,-145
+2021-02-12,Washington,125
+2021-02-12,New Orleans,130
+2021-02-12,Dallas,-150
+2021-02-12,San Antonio,115
+2021-02-12,Atlanta,-135
+2021-02-12,Detroit,240
+2021-02-12,Boston,-300
+2021-02-12,Oklahoma City,575
+2021-02-12,Denver,-850
+2021-02-12,Milwaukee,115
+2021-02-12,Utah,-135
+2021-02-12,Memphis,300
+2021-02-12,L.A. Lakers,-380
+2021-02-12,Orlando,220
+2021-02-12,Sacramento,-270
+2021-02-18,Toronto,260
+2021-02-18,Milwaukee,-320
+2021-02-18,Brooklyn,130
+2021-02-18,L.A. Lakers,-150
+2021-02-18,Miami,-105
+2021-02-18,Sacramento,-115
+2021-02-19,Golden State,-220
+2021-02-19,Orlando,180
+2021-02-19,Denver,-425
+2021-02-19,Cleveland,325
+2021-02-19,Chicago,210
+2021-02-19,Philadelphia,-250
+2021-02-19,Atlanta,170
+2021-02-19,Boston,-200
+2021-02-19,Phoenix,-160
+2021-02-19,New Orleans,140
+2021-02-19,Oklahoma City,475
+2021-02-19,Milwaukee,-650
+2021-02-19,Detroit,165
+2021-02-19,Memphis,-185
+2021-02-19,Utah,-110
+2021-02-19,L.A. Clippers,-110
+2021-02-21,Boston,-135
+2021-02-21,New Orleans,115
+2021-02-21,Oklahoma City,-145
+2021-02-21,Cleveland,125
+2021-02-21,Detroit,135
+2021-02-21,Orlando,-155
+2021-02-21,Philadelphia,-150
+2021-02-21,Toronto,130
+2021-02-21,Minnesota,130
+2021-02-21,New York,-150
+2021-02-21,Denver,-140
+2021-02-21,Atlanta,120
+2021-02-21,Brooklyn,215
+2021-02-21,L.A. Clippers,-260
+2021-02-21,Sacramento,425
+2021-02-21,Milwaukee,-550
+2021-02-22,Chicago,-115
+2021-02-22,Houston,-105
+2021-02-22,Memphis,155
+2021-02-22,Dallas,-175
+2021-02-22,Miami,-290
+2021-02-22,Oklahoma City,235
+2021-02-22,Portland,210
+2021-02-22,Phoenix,-250
+2021-02-22,Washington,235
+2021-02-22,L.A. Lakers,-290
+2021-02-23,Atlanta,-350
+2021-02-23,Cleveland,275
+2021-02-23,Detroit,155
+2021-02-23,Orlando,-175
+2021-02-23,Golden State,-170
+2021-02-23,New York,150
+2021-02-23,Philadelphia,-135
+2021-02-23,Toronto,115
+2021-02-23,Boston,-135
+2021-02-23,Dallas,115
+2021-02-23,Sacramento,190
+2021-02-23,Brooklyn,-230
+2021-02-23,Minnesota,450
+2021-02-23,Milwaukee,-600
+2021-02-23,Portland,200
+2021-02-23,Denver,-240
+2021-02-23,Washington,550
+2021-02-23,L.A. Clippers,-800
+2021-02-24,Houston,-220
+2021-02-24,Cleveland,180
+2021-02-24,Boston,-125
+2021-02-24,Atlanta,105
+2021-02-24,Golden State,110
+2021-02-24,Indiana,-130
+2021-02-24,Toronto,110
+2021-02-24,Miami,-130
+2021-02-24,San Antonio,-115
+2021-02-24,Oklahoma City,-105
+2021-02-24,Minnesota,170
+2021-02-24,Chicago,-200
+2021-02-24,Detroit,500
+2021-02-24,New Orleans,-700
+2021-02-24,Charlotte,320
+2021-02-24,Phoenix,-400
+2021-02-24,L.A. Lakers,280
+2021-02-24,Utah,-360
+2021-02-25,Dallas,170
+2021-02-25,Philadelphia,-200
+2021-02-25,Orlando,320
+2021-02-25,Brooklyn,-400
+2021-02-25,Sacramento,-105
+2021-02-25,New York,-115
+2021-02-25,L.A. Clippers,-320
+2021-02-25,Memphis,260
+2021-02-25,Washington,280
+2021-02-25,Denver,-360
+2021-02-25,New Orleans,280
+2021-02-25,Milwaukee,-360
+2021-02-26,Houston,215
+2021-02-26,Toronto,-260
+2021-02-26,Indiana,125
+2021-02-26,Boston,-145
+2021-02-26,Sacramento,-120
+2021-02-26,Detroit,100
+2021-02-26,Utah,-260
+2021-02-26,Miami,215
+2021-02-26,Atlanta,-210
+2021-02-26,Oklahoma City,175
+2021-02-26,Phoenix,-260
+2021-02-26,Chicago,215
+2021-02-26,L.A. Clippers,-340
+2021-02-26,Memphis,270
+2021-02-26,Charlotte,210
+2021-02-26,Golden State,-250
+2021-02-26,Portland,170
+2021-02-26,L.A. Lakers,-200
+2021-02-27,Minnesota,160
+2021-02-27,Washington,-180
+2021-02-27,Cleveland,475
+2021-02-27,Philadelphia,-650
+2021-02-27,New Orleans,-130
+2021-02-27,San Antonio,110
+2021-02-27,Indiana,-110
+2021-02-27,New York,-110
+2021-02-27,Utah,-500
+2021-02-27,Orlando,375
+2021-02-27,Denver,-270
+2021-02-27,Oklahoma City,220
+2021-02-27,Dallas,-115
+2021-02-27,Brooklyn,-105
+2021-02-28,L.A. Clippers,105
+2021-02-28,Milwaukee,-125
+2021-02-28,Washington,235
+2021-02-28,Boston,-290
+2021-02-28,Golden State,125
+2021-02-28,L.A. Lakers,-145
+2021-02-28,New York,-120
+2021-02-28,Detroit,100
+2021-02-28,Atlanta,120
+2021-02-28,Miami,-140
+2021-02-28,Memphis,-165
+2021-02-28,Houston,145
+2021-02-28,Phoenix,-550
+2021-02-28,Minnesota,425
+2021-02-28,Charlotte,145
+2021-02-28,Sacramento,-165
+2021-02-28,Chicago,160
+2021-02-28,Toronto,-180
+2021-03-01,Indiana,140
+2021-03-01,Philadelphia,-160
+2021-03-01,Dallas,-280
+2021-03-01,Orlando,230
+2021-03-01,Utah,-290
+2021-03-01,New Orleans,235
+2021-03-01,Denver,-175
+2021-03-01,Chicago,155
+2021-03-01,Brooklyn,-175
+2021-03-01,San Antonio,155
+2021-03-01,Cleveland,120
+2021-03-01,Houston,-140
+2021-03-01,Charlotte,280
+2021-03-01,Portland,-360
+2021-03-02,Memphis,-110
+2021-03-02,Washington,-110
+2021-03-02,L.A. Clippers,-200
+2021-03-02,Boston,170
+2021-03-02,Atlanta,110
+2021-03-02,Miami,-130
+2021-03-02,New York,-125
+2021-03-02,San Antonio,105
+2021-03-02,Denver,260
+2021-03-02,Milwaukee,-320
+2021-03-02,Phoenix,-110
+2021-03-02,L.A. Lakers,-110
+2021-03-02,Detroit,320
+2021-03-02,Toronto,-400
+2021-03-03,Detroit,270
+2021-03-03,Toronto,-340
+2021-03-03,Indiana,-270
+2021-03-03,Cleveland,220
+2021-03-03,Utah,-160
+2021-03-03,Philadelphia,140
+2021-03-03,Brooklyn,-600
+2021-03-03,Houston,450
+2021-03-03,Chicago,200
+2021-03-03,New Orleans,-240
+2021-03-03,Atlanta,-150
+2021-03-03,Orlando,130
+2021-03-03,Charlotte,-130
+2021-03-03,Minnesota,110
+2021-03-03,Oklahoma City,175
+2021-03-03,Dallas,-210
+2021-03-03,Golden State,-115
+2021-03-03,Portland,-105
+2021-03-03,L.A. Lakers,160
+2021-03-03,Sacramento,-180
+2021-03-04,L.A. Clippers,-390
+2021-03-04,Washington,310
+2021-03-04,Toronto,290
+2021-03-04,Boston,-370
+2021-03-04,Detroit,240
+2021-03-04,New York,-300
+2021-03-04,Denver,-165
+2021-03-04,Indiana,145
+2021-03-04,Milwaukee,-245
+2021-03-04,Memphis,205
+2021-03-04,Miami,-125
+2021-03-04,New Orleans,105
+2021-03-04,Oklahoma City,240
+2021-03-04,San Antonio,-300
+2021-03-04,Golden State,650
+2021-03-04,Phoenix,-1000
+2021-03-04,Sacramento,167
+2021-03-04,Portland,-192
+2021-03-07,Team Durant East,155
+2021-03-07,Team LeBron West,-175
+2021-03-10,Washington,130
+2021-03-10,Memphis,-150
+2021-03-10,San Antonio,160
+2021-03-10,Dallas,-180
+2021-03-11,Detroit,165
+2021-03-11,Charlotte,-185
+2021-03-11,Boston,120
+2021-03-11,Brooklyn,-140
+2021-03-11,Atlanta,-155
+2021-03-11,Toronto,135
+2021-03-11,Philadelphia,130
+2021-03-11,Chicago,-150
+2021-03-11,Orlando,325
+2021-03-11,Miami,-425
+2021-03-11,New York,500
+2021-03-11,Milwaukee,-700
+2021-03-11,Minnesota,280
+2021-03-11,New Orleans,-360
+2021-03-11,Dallas,-130
+2021-03-11,Oklahoma City,110
+2021-03-11,Phoenix,-185
+2021-03-11,Portland,165
+2021-03-11,Golden State,235
+2021-03-11,L.A. Clippers,-290
+2021-03-11,Houston,210
+2021-03-11,Sacramento,-250
+2021-03-12,Philadelphia,-155
+2021-03-12,Washington,135
+2021-03-12,Cleveland,225
+2021-03-12,New Orleans,-275
+2021-03-12,Denver,-145
+2021-03-12,Memphis,125
+2021-03-12,Miami,-130
+2021-03-12,Chicago,110
+2021-03-12,Orlando,240
+2021-03-12,San Antonio,-300
+2021-03-12,Houston,1500
+2021-03-12,Utah,-3500
+2021-03-12,Indiana,170
+2021-03-12,L.A. Lakers,-200
+2021-03-13,New York,-185
+2021-03-13,Oklahoma City,165
+2021-03-13,Detroit,500
+2021-03-13,Brooklyn,-700
+2021-03-13,Toronto,120
+2021-03-13,Charlotte,-140
+2021-03-13,Milwaukee,-1100
+2021-03-13,Washington,700
+2021-03-13,Sacramento,150
+2021-03-13,Atlanta,-170
+2021-03-13,Portland,-200
+2021-03-13,Minnesota,170
+2021-03-13,Indiana,240
+2021-03-13,Phoenix,-300
+2021-03-13,Dallas,-105
+2021-03-13,Denver,-115
+2021-03-14,Memphis,-380
+2021-03-14,Oklahoma City,300
+2021-03-14,Utah,-320
+2021-03-14,Golden State,260
+2021-03-14,San Antonio,170
+2021-03-14,Philadelphia,-200
+2021-03-14,Miami,-310
+2021-03-14,Orlando,250
+2021-03-14,Cleveland,180
+2021-03-14,Atlanta,-220
+2021-03-14,Boston,-700
+2021-03-14,Houston,500
+2021-03-14,Portland,-200
+2021-03-14,Minnesota,170
+2021-03-14,L.A. Clippers,-240
+2021-03-14,New Orleans,200
+2021-03-14,Toronto,145
+2021-03-14,Chicago,-165
+2021-03-15,Milwaukee,-380
+2021-03-15,Washington,300
+2021-03-15,Sacramento,130
+2021-03-15,Charlotte,-150
+2021-03-15,New York,280
+2021-03-15,Brooklyn,-360
+2021-03-15,San Antonio,-120
+2021-03-15,Detroit,100
+2021-03-15,L.A. Clippers,-120
+2021-03-15,Dallas,100
+2021-03-15,Indiana,155
+2021-03-15,Denver,-175
+2021-03-15,Memphis,240
+2021-03-15,Phoenix,-300
+2021-03-15,L.A. Lakers,-115
+2021-03-15,Golden State,-105
+2021-03-16,Utah,-160
+2021-03-16,Boston,140
+2021-03-16,Oklahoma City,230
+2021-03-16,Chicago,-280
+2021-03-16,Atlanta,-380
+2021-03-16,Houston,300
+2021-03-16,New York,240
+2021-03-16,Philadelphia,-300
+2021-03-16,Cleveland,500
+2021-03-16,Miami,-700
+2021-03-16,New Orleans,110
+2021-03-16,Portland,-130
+2021-03-16,Minnesota,270
+2021-03-16,L.A. Lakers,-340
+2021-03-17,Brooklyn,110
+2021-03-17,Indiana,-130
+2021-03-17,Milwaukee,-245
+2021-03-17,Philadelphia,205
+2021-03-17,Sacramento,-105
+2021-03-17,Washington,-115
+2021-03-17,Toronto,-260
+2021-03-17,Detroit,215
+2021-03-17,Boston,-320
+2021-03-17,Cleveland,260
+2021-03-17,Golden State,-750
+2021-03-17,Houston,525
+2021-03-17,San Antonio,105
+2021-03-17,Chicago,-125
+2021-03-17,Charlotte,215
+2021-03-17,Denver,-260
+2021-03-17,Miami,-115
+2021-03-17,Memphis,-105
+2021-03-17,L.A. Clippers,-130
+2021-03-17,Dallas,110
+2021-03-18,Utah,-650
+2021-03-18,Washington,475
+2021-03-18,Oklahoma City,280
+2021-03-18,Atlanta,-360
+2021-03-18,Orlando,175
+2021-03-18,New York,-210
+2021-03-18,Minnesota,475
+2021-03-18,Phoenix,-650
+2021-03-18,New Orleans,105
+2021-03-18,Portland,-125
+2021-03-18,Charlotte,240
+2021-03-18,L.A. Lakers,-300
+2021-03-19,San Antonio,-200
+2021-03-19,Cleveland,170
+2021-03-19,Sacramento,235
+2021-03-19,Boston,-290
+2021-03-19,Indiana,160
+2021-03-19,Miami,-180
+2021-03-19,Golden State,215
+2021-03-19,Memphis,-260
+2021-03-19,Brooklyn,-600
+2021-03-19,Orlando,450
+2021-03-19,Detroit,115
+2021-03-19,Houston,-135
+2021-03-19,Utah,-170
+2021-03-19,Toronto,150
+2021-03-19,Chicago,240
+2021-03-19,Denver,-300
+2021-03-19,Minnesota,475
+2021-03-19,Phoenix,-650
+2021-03-19,Dallas,-145
+2021-03-19,Portland,125
+2021-03-20,Atlanta,140
+2021-03-20,L.A. Lakers,-160
+2021-03-20,Golden State,220
+2021-03-20,Memphis,-270
+2021-03-20,Sacramento,205
+2021-03-20,Philadelphia,-245
+2021-03-20,San Antonio,525
+2021-03-20,Milwaukee,-750
+2021-03-20,Charlotte,375
+2021-03-20,L.A. Clippers,-500
+2021-03-21,Indiana,140
+2021-03-21,Miami,-160
+2021-03-21,Oklahoma City,170
+2021-03-21,Houston,-200
+2021-03-21,New Orleans,210
+2021-03-21,Denver,-250
+2021-03-21,Orlando,320
+2021-03-21,Boston,-400
+2021-03-21,Washington,310
+2021-03-21,Brooklyn,-390
+2021-03-21,Toronto,-290
+2021-03-21,Cleveland,235
+2021-03-21,Chicago,-160
+2021-03-21,Detroit,140
+2021-03-21,Philadelphia,-115
+2021-03-21,New York,-105
+2021-03-21,L.A. Lakers,425
+2021-03-21,Phoenix,-550
+2021-03-21,Dallas,-130
+2021-03-21,Portland,110
+2021-03-22,Sacramento,-175
+2021-03-22,Cleveland,155
+2021-03-22,Oklahoma City,175
+2021-03-22,Minnesota,-210
+2021-03-22,Charlotte,175
+2021-03-22,San Antonio,-210
+2021-03-22,Toronto,-380
+2021-03-22,Houston,300
+2021-03-22,Indiana,235
+2021-03-22,Milwaukee,-290
+2021-03-22,Utah,-500
+2021-03-22,Chicago,375
+2021-03-22,Boston,165
+2021-03-22,Memphis,-185
+2021-03-22,Atlanta,200
+2021-03-22,L.A. Clippers,-240
+2021-03-23,Denver,-320
+2021-03-23,Orlando,260
+2021-03-23,Washington,120
+2021-03-23,New York,-140
+2021-03-23,L.A. Lakers,185
+2021-03-23,New Orleans,-225
+2021-03-23,Phoenix,-125
+2021-03-23,Miami,105
+2021-03-23,Brooklyn,110
+2021-03-23,Portland,-130
+2021-03-23,Philadelphia,-180
+2021-03-23,Golden State,160
+2021-03-24,Detroit,260
+2021-03-24,Indiana,-320
+2021-03-24,Boston,220
+2021-03-24,Milwaukee,-270
+2021-03-24,Denver,-120
+2021-03-24,Toronto,100
+2021-03-24,Cleveland,260
+2021-03-24,Chicago,-320
+2021-03-24,Memphis,-280
+2021-03-24,Oklahoma City,230
+2021-03-24,Phoenix,-425
+2021-03-24,Orlando,325
+2021-03-24,Charlotte,-170
+2021-03-24,Houston,150
+2021-03-24,Dallas,-350
+2021-03-24,Minnesota,275
+2021-03-24,L.A. Clippers,-245
+2021-03-24,San Antonio,205
+2021-03-24,Brooklyn,700
+2021-03-24,Utah,-1100
+2021-03-24,Atlanta,-145
+2021-03-24,Sacramento,125
+2021-03-25,Washington,125
+2021-03-25,New York,-145
+2021-03-25,Portland,-140
+2021-03-25,Miami,120
+2021-03-25,L.A. Clippers,-125
+2021-03-25,San Antonio,105
+2021-03-25,Golden State,160
+2021-03-25,Sacramento,-180
+2021-03-25,Philadelphia,-240
+2021-03-25,L.A. Lakers,200
+2021-03-26,Brooklyn,-275
+2021-03-26,Detroit,225
+2021-03-26,Phoenix,-155
+2021-03-26,Toronto,135
+2021-03-26,Boston,190
+2021-03-26,Milwaukee,-230
+2021-03-26,Portland,-525
+2021-03-26,Orlando,400
+2021-03-26,Miami,-125
+2021-03-26,Charlotte,105
+2021-03-26,Denver,-140
+2021-03-26,New Orleans,120
+2021-03-26,Houston,155
+2021-03-26,Minnesota,-175
+2021-03-26,Indiana,-125
+2021-03-26,Dallas,105
+2021-03-26,Memphis,425
+2021-03-26,Utah,-550
+2021-03-26,Atlanta,-275
+2021-03-26,Golden State,225
+2021-03-26,Cleveland,160
+2021-03-26,L.A. Lakers,-180
+2021-03-27,New York,-135
+2021-03-27,Milwaukee,115
+2021-03-27,Detroit,180
+2021-03-27,Washington,-220
+2021-03-27,Houston,165
+2021-03-27,Minnesota,-185
+2021-03-27,Chicago,100
+2021-03-27,San Antonio,-120
+2021-03-27,Memphis,350
+2021-03-27,Utah,-450
+2021-03-27,Dallas,175
+2021-03-27,New Orleans,-210
+2021-03-27,Boston,-260
+2021-03-27,Oklahoma City,215
+2021-03-27,Philadelphia,175
+2021-03-27,L.A. Clippers,-210
+2021-03-27,Cleveland,325
+2021-03-27,Sacramento,-425
+2021-03-28,Phoenix,-250
+2021-03-28,Charlotte,210
+2021-03-28,Portland,-145
+2021-03-28,Toronto,125
+2021-03-28,Atlanta,167
+2021-03-28,Denver,-192
+2021-03-28,Orlando,240
+2021-03-28,L.A. Lakers,-300
+2021-03-29,Indiana,-290
+2021-03-29,Washington,235
+2021-03-29,Miami,-155
+2021-03-29,New York,135
+2021-03-29,Minnesota,450
+2021-03-29,Brooklyn,-600
+2021-03-29,New Orleans,125
+2021-03-29,Boston,-145
+2021-03-29,Dallas,-700
+2021-03-29,Oklahoma City,500
+2021-03-29,Toronto,-220
+2021-03-29,Detroit,180
+2021-03-29,Memphis,-360
+2021-03-29,Houston,280
+2021-03-29,Sacramento,120
+2021-03-29,San Antonio,-140
+2021-03-29,Cleveland,1150
+2021-03-29,Utah,-2200
+2021-03-29,Milwaukee,115
+2021-03-29,L.A. Clippers,-135
+2021-03-29,Chicago,110
+2021-03-29,Golden State,-130
+2021-03-30,Charlotte,-180
+2021-03-30,Washington,160
+2021-03-30,Philadelphia,180
+2021-03-30,Denver,-220
+2021-03-30,Atlanta,190
+2021-03-30,Phoenix,-230
+2021-03-30,Orlando,500
+2021-03-30,L.A. Clippers,-700
+2021-03-31,Portland,-330
+2021-03-31,Detroit,265
+2021-03-31,Miami,-120
+2021-03-31,Indiana,100
+2021-03-31,Houston,700
+2021-03-31,Brooklyn,-1100
+2021-03-31,Dallas,-105
+2021-03-31,Boston,-115
+2021-03-31,Toronto,-310
+2021-03-31,Oklahoma City,250
+2021-03-31,New York,-150
+2021-03-31,Minnesota,130
+2021-03-31,Utah,-230
+2021-03-31,Memphis,190
+2021-03-31,Sacramento,120
+2021-03-31,San Antonio,-140
+2021-03-31,Milwaukee,110
+2021-03-31,L.A. Lakers,-150
+2021-03-31,Chicago,270
+2021-03-31,Phoenix,-340
+2021-04-01,Philadelphia,-500
+2021-04-01,Cleveland,375
+2021-04-01,Washington,100
+2021-04-01,Detroit,-120
+2021-04-01,Charlotte,125
+2021-04-01,Brooklyn,-145
+2021-04-01,Golden State,125
+2021-04-01,Miami,-145
+2021-04-01,Orlando,180
+2021-04-01,New Orleans,-220
+2021-04-01,Atlanta,100
+2021-04-01,San Antonio,-120
+2021-04-01,Denver,110
+2021-04-01,L.A. Clippers,-130
+2021-04-02,Golden State,165
+2021-04-02,Toronto,-185
+2021-04-02,Houston,550
+2021-04-02,Boston,-800
+2021-04-02,Dallas,-230
+2021-04-02,New York,190
+2021-04-02,Minnesota,215
+2021-04-02,Memphis,-260
+2021-04-02,Charlotte,167
+2021-04-02,Indiana,-192
+2021-04-02,Atlanta,-105
+2021-04-02,New Orleans,-115
+2021-04-02,Chicago,700
+2021-04-02,Utah,-1100
+2021-04-02,L.A. Lakers,160
+2021-04-02,Sacramento,-180
+2021-04-02,Oklahoma City,700
+2021-04-02,Phoenix,-1100
+2021-04-02,Milwaukee,-145
+2021-04-02,Portland,125
+2021-04-03,Dallas,-185
+2021-04-03,Washington,165
+2021-04-03,New York,-125
+2021-04-03,Detroit,105
+2021-04-03,Cleveland,650
+2021-04-03,Miami,-1000
+2021-04-03,Minnesota,700
+2021-04-03,Philadelphia,-1100
+2021-04-03,Orlando,900
+2021-04-03,Utah,-1500
+2021-04-03,Indiana,185
+2021-04-03,San Antonio,-225
+2021-04-03,Milwaukee,-150
+2021-04-03,Sacramento,130
+2021-04-03,Oklahoma City,650
+2021-04-03,Portland,-1000
+2021-04-04,Brooklyn,-130
+2021-04-04,Chicago,110
+2021-04-04,L.A. Lakers,450
+2021-04-04,L.A. Clippers,-600
+2021-04-04,Charlotte,320
+2021-04-04,Boston,-400
+2021-04-04,Memphis,125
+2021-04-04,Philadelphia,-145
+2021-04-04,Golden State,110
+2021-04-04,Atlanta,-130
+2021-04-04,New Orleans,-220
+2021-04-04,Houston,180
+2021-04-04,Orlando,1200
+2021-04-04,Denver,-2400
+2021-04-05,New York,205
+2021-04-05,Brooklyn,-245
+2021-04-05,Cleveland,275
+2021-04-05,San Antonio,-350
+2021-04-05,Washington,185
+2021-04-05,Toronto,-225
+2021-04-05,Sacramento,-165
+2021-04-05,Minnesota,145
+2021-04-05,Detroit,-150
+2021-04-05,Oklahoma City,130
+2021-04-05,Utah,-225
+2021-04-05,Dallas,185
+2021-04-05,Phoenix,-1200
+2021-04-05,Houston,750
+2021-04-06,Chicago,-130
+2021-04-06,Indiana,110
+2021-04-06,Philadelphia,-110
+2021-04-06,Boston,-110
+2021-04-06,L.A. Lakers,-120
+2021-04-06,Toronto,100
+2021-04-06,New Orleans,140
+2021-04-06,Atlanta,-160
+2021-04-06,Memphis,210
+2021-04-06,Miami,-250
+2021-04-06,Detroit,550
+2021-04-06,Denver,-800
+2021-04-06,Milwaukee,-140
+2021-04-06,Golden State,120
+2021-04-06,Portland,210
+2021-04-06,L.A. Clippers,-250
+2021-04-07,Washington,-175
+2021-04-07,Orlando,155
+2021-04-07,Minnesota,-110
+2021-04-07,Indiana,-110
+2021-04-07,New Orleans,290
+2021-04-07,Brooklyn,-370
+2021-04-07,New York,130
+2021-04-07,Boston,-150
+2021-04-07,Dallas,-525
+2021-04-07,Houston,400
+2021-04-07,Memphis,-125
+2021-04-07,Atlanta,105
+2021-04-07,Charlotte,-210
+2021-04-07,Oklahoma City,175
+2021-04-07,San Antonio,175
+2021-04-07,Denver,-210
+2021-04-07,Utah,-135
+2021-04-07,Phoenix,115
+2021-04-08,L.A. Lakers,375
+2021-04-08,Miami,-500
+2021-04-08,Chicago,-200
+2021-04-08,Toronto,170
+2021-04-08,Cleveland,-175
+2021-04-08,Oklahoma City,155
+2021-04-08,Milwaukee,115
+2021-04-08,Dallas,-135
+2021-04-08,Detroit,265
+2021-04-08,Sacramento,-330
+2021-04-08,Portland,180
+2021-04-08,Utah,-220
+2021-04-08,Phoenix,190
+2021-04-08,L.A. Clippers,-230
+2021-04-09,Indiana,-260
+2021-04-09,Orlando,215
+2021-04-09,Minnesota,320
+2021-04-09,Boston,-400
+2021-04-09,Memphis,-125
+2021-04-09,New York,105
+2021-04-09,Chicago,125
+2021-04-09,Atlanta,-145
+2021-04-09,Philadelphia,-225
+2021-04-09,New Orleans,185
+2021-04-09,Charlotte,-145
+2021-04-09,Milwaukee,125
+2021-04-09,San Antonio,220
+2021-04-09,Denver,-270
+2021-04-09,Washington,160
+2021-04-09,Golden State,-180
+2021-04-09,Houston,500
+2021-04-09,L.A. Clippers,-700
+2021-04-10,Toronto,120
+2021-04-10,Cleveland,-140
+2021-04-10,L.A. Lakers,525
+2021-04-10,Brooklyn,-750
+2021-04-10,Sacramento,550
+2021-04-10,Utah,-800
+2021-04-10,Philadelphia,-600
+2021-04-10,Oklahoma City,450
+2021-04-10,Detroit,550
+2021-04-10,Portland,-800
+2021-04-10,Washington,750
+2021-04-10,Phoenix,-1200
+2021-04-10,Houston,260
+2021-04-10,Golden State,-320
+2021-04-11,Atlanta,120
+2021-04-11,Charlotte,-140
+2021-04-11,Boston,145
+2021-04-11,Denver,-165
+2021-04-11,Milwaukee,-400
+2021-04-11,Orlando,320
+2021-04-11,New Orleans,-450
+2021-04-11,Cleveland,350
+2021-04-11,Toronto,135
+2021-04-11,New York,-155
+2021-04-11,Indiana,145
+2021-04-11,Memphis,-165
+2021-04-11,Chicago,-170
+2021-04-11,Minnesota,150
+2021-04-11,San Antonio,210
+2021-04-11,Dallas,-250
+2021-04-11,Miami,-110
+2021-04-11,Portland,-110
+2021-04-11,Detroit,650
+2021-04-11,L.A. Clippers,-1000
+2021-04-12,Philadelphia,-165
+2021-04-12,Dallas,145
+2021-04-12,L.A. Lakers,-105
+2021-04-12,New York,-115
+2021-04-12,San Antonio,-275
+2021-04-12,Orlando,225
+2021-04-12,Sacramento,125
+2021-04-12,New Orleans,-145
+2021-04-12,Washington,475
+2021-04-12,Utah,-650
+2021-04-12,Chicago,105
+2021-04-12,Memphis,-125
+2021-04-12,Houston,600
+2021-04-12,Phoenix,-900
+2021-04-12,Denver,-220
+2021-04-12,Golden State,180
+2021-04-12,Brooklyn,-400
+2021-04-12,Minnesota,320
+2021-04-13,Brooklyn,-310
+2021-04-13,Minnesota,250
+2021-04-13,L.A. Clippers,-150
+2021-04-13,Indiana,130
+2021-04-13,Atlanta,100
+2021-04-13,Toronto,-120
+2021-04-13,L.A. Lakers,-130
+2021-04-13,Charlotte,110
+2021-04-13,Oklahoma City,950
+2021-04-13,Utah,-1600
+2021-04-13,Boston,-105
+2021-04-13,Portland,-115
+2021-04-13,Miami,140
+2021-04-13,Phoenix,-160
+2021-04-14,Milwaukee,-525
+2021-04-14,Minnesota,400
+2021-04-14,Brooklyn,310
+2021-04-14,Philadelphia,-390
+2021-04-14,Cleveland,130
+2021-04-14,Charlotte,-150
+2021-04-14,San Antonio,-220
+2021-04-14,Toronto,180
+2021-04-14,L.A. Clippers,-125
+2021-04-14,Detroit,105
+2021-04-14,New York,110
+2021-04-14,New Orleans,-130
+2021-04-14,Orlando,375
+2021-04-14,Chicago,-500
+2021-04-14,Golden State,-900
+2021-04-14,Oklahoma City,600
+2021-04-14,Indiana,-160
+2021-04-14,Houston,140
+2021-04-14,Dallas,-150
+2021-04-14,Memphis,130
+2021-04-14,Miami,175
+2021-04-14,Denver,-210
+2021-04-14,Washington,-130
+2021-04-14,Sacramento,110
+2021-04-15,Milwaukee,-175
+2021-04-15,Atlanta,155
+2021-04-15,Golden State,-225
+2021-04-15,Cleveland,185
+2021-04-15,Boston,-320
+2021-04-15,L.A. Lakers,260
+2021-04-15,Sacramento,625
+2021-04-15,Phoenix,-950
+2021-04-16,Indiana,450
+2021-04-16,Utah,-600
+2021-04-16,Oklahoma City,130
+2021-04-16,Detroit,-150
+2021-04-16,New Orleans,-150
+2021-04-16,Washington,130
+2021-04-16,L.A. Clippers,200
+2021-04-16,Philadelphia,-240
+2021-04-16,Orlando,135
+2021-04-16,Toronto,-155
+2021-04-16,Charlotte,600
+2021-04-16,Brooklyn,-900
+2021-04-16,Denver,-400
+2021-04-16,Houston,320
+2021-04-16,Memphis,-170
+2021-04-16,Chicago,150
+2021-04-16,Miami,-260
+2021-04-16,Minnesota,215
+2021-04-16,Portland,100
+2021-04-16,San Antonio,-120
+2021-04-16,New York,215
+2021-04-16,Dallas,-260
+2021-04-17,Utah,-105
+2021-04-17,L.A. Lakers,-115
+2021-04-17,Cleveland,130
+2021-04-17,Chicago,-150
+2021-04-17,Detroit,160
+2021-04-17,Washington,-180
+2021-04-17,Golden State,130
+2021-04-17,Boston,-150
+2021-04-17,Memphis,300
+2021-04-17,Milwaukee,-380
+2021-04-17,San Antonio,550
+2021-04-17,Phoenix,-800
+2021-04-18,New Orleans,-105
+2021-04-18,New York,-115
+2021-04-18,Indiana,120
+2021-04-18,Atlanta,-140
+2021-04-18,Brooklyn,-160
+2021-04-18,Miami,140
+2021-04-18,Portland,-180
+2021-04-18,Charlotte,160
+2021-04-18,Houston,-110
+2021-04-18,Orlando,-110
+2021-04-18,Oklahoma City,195
+2021-04-18,Toronto,-235
+2021-04-18,Sacramento,300
+2021-04-18,Dallas,-380
+2021-04-18,Minnesota,375
+2021-04-18,L.A. Clippers,-500
+2021-04-19,Cleveland,-160
+2021-04-19,Detroit,140
+2021-04-19,Golden State,165
+2021-04-19,Philadelphia,-185
+2021-04-19,Chicago,165
+2021-04-19,Boston,-185
+2021-04-19,Phoenix,130
+2021-04-19,Milwaukee,-150
+2021-04-19,Houston,170
+2021-04-19,Miami,-200
+2021-04-19,San Antonio,-160
+2021-04-19,Indiana,140
+2021-04-19,Oklahoma City,600
+2021-04-19,Washington,-900
+2021-04-19,Memphis,270
+2021-04-19,Denver,-340
+2021-04-19,Utah,-275
+2021-04-19,L.A. Lakers,225
+2021-04-20,Charlotte,170
+2021-04-20,New York,-200
+2021-04-20,Orlando,600
+2021-04-20,Atlanta,-900
+2021-04-20,Brooklyn,125
+2021-04-20,New Orleans,-145
+2021-04-20,L.A. Clippers,-220
+2021-04-20,Portland,180
+2021-04-20,Minnesota,140
+2021-04-20,Sacramento,-160
+2021-04-21,Oklahoma City,320
+2021-04-21,Indiana,-400
+2021-04-21,Phoenix,-145
+2021-04-21,Philadelphia,125
+2021-04-21,Brooklyn,155
+2021-04-21,Toronto,-175
+2021-04-21,Golden State,-130
+2021-04-21,Washington,110
+2021-04-21,Chicago,-130
+2021-04-21,Cleveland,110
+2021-04-21,Utah,-750
+2021-04-21,Houston,525
+2021-04-21,Atlanta,-120
+2021-04-21,New York,100
+2021-04-21,Detroit,475
+2021-04-21,Dallas,-650
+2021-04-21,Miami,-125
+2021-04-21,San Antonio,105
+2021-04-21,Memphis,-180
+2021-04-21,L.A. Clippers,160
+2021-04-21,Minnesota,130
+2021-04-21,Sacramento,-150
+2021-04-21,Denver,-125
+2021-04-21,Portland,105
+2021-04-22,Phoenix,-125
+2021-04-22,Boston,105
+2021-04-22,New Orleans,-525
+2021-04-22,Orlando,400
+2021-04-22,Philadelphia,220
+2021-04-22,Milwaukee,-270
+2021-04-22,Detroit,240
+2021-04-22,San Antonio,-300
+2021-04-22,Charlotte,100
+2021-04-22,Chicago,-120
+2021-04-22,L.A. Lakers,140
+2021-04-22,Dallas,-160
+2021-04-23,Boston,135
+2021-04-23,Brooklyn,-155
+2021-04-23,Miami,-270
+2021-04-23,Atlanta,220
+2021-04-23,L.A. Clippers,-550
+2021-04-23,Houston,425
+2021-04-23,Cleveland,100
+2021-04-23,Charlotte,-120
+2021-04-23,Washington,-450
+2021-04-23,Oklahoma City,350
+2021-04-23,Memphis,155
+2021-04-23,Portland,-175
+2021-04-23,Denver,-135
+2021-04-23,Golden State,115
+2021-04-24,Toronto,-110
+2021-04-24,New York,-110
+2021-04-24,Philadelphia,325
+2021-04-24,Milwaukee,-425
+2021-04-24,Detroit,155
+2021-04-24,Indiana,-175
+2021-04-24,San Antonio,130
+2021-04-24,New Orleans,-150
+2021-04-24,Chicago,165
+2021-04-24,Miami,-185
+2021-04-24,L.A. Lakers,110
+2021-04-24,Dallas,-130
+2021-04-24,Minnesota,625
+2021-04-24,Utah,-950
+2021-04-24,Houston,850
+2021-04-24,Denver,-1400
+2021-04-25,Boston,-350
+2021-04-25,Charlotte,275
+2021-04-25,Phoenix,100
+2021-04-25,Brooklyn,-120
+2021-04-25,Memphis,140
+2021-04-25,Portland,-160
+2021-04-25,Cleveland,235
+2021-04-25,Washington,-290
+2021-04-25,Milwaukee,-230
+2021-04-25,Atlanta,190
+2021-04-25,Indiana,-230
+2021-04-25,Orlando,190
+2021-04-25,Sacramento,260
+2021-04-25,Golden State,-320
+2021-04-26,Atlanta,-175
+2021-04-26,Detroit,155
+2021-04-26,San Antonio,-130
+2021-04-26,Washington,110
+2021-04-26,L.A. Lakers,-700
+2021-04-26,Orlando,500
+2021-04-26,Oklahoma City,1000
+2021-04-26,Philadelphia,-1700
+2021-04-26,Cleveland,550
+2021-04-26,Toronto,-800
+2021-04-26,Phoenix,-145
+2021-04-26,New York,125
+2021-04-26,Chicago,190
+2021-04-26,Miami,-230
+2021-04-26,Utah,-500
+2021-04-26,Minnesota,375
+2021-04-26,L.A. Clippers,-130
+2021-04-26,New Orleans,110
+2021-04-26,Memphis,150
+2021-04-26,Denver,-170
+2021-04-26,Dallas,-250
+2021-04-26,Sacramento,210
+2021-04-27,Portland,-230
+2021-04-27,Indiana,190
+2021-04-27,Milwaukee,-450
+2021-04-27,Charlotte,350
+2021-04-27,Oklahoma City,525
+2021-04-27,Boston,-750
+2021-04-27,Brooklyn,-210
+2021-04-27,Toronto,175
+2021-04-27,Minnesota,-140
+2021-04-27,Houston,120
+2021-04-27,Dallas,150
+2021-04-27,Golden State,-170
+2021-04-28,Orlando,150
+2021-04-28,Cleveland,-170
+2021-04-28,Atlanta,265
+2021-04-28,Philadelphia,-330
+2021-04-28,L.A. Lakers,-115
+2021-04-28,Washington,-105
+2021-04-28,Chicago,150
+2021-04-28,New York,-170
+2021-04-28,Charlotte,210
+2021-04-28,Boston,-250
+2021-04-28,San Antonio,170
+2021-04-28,Miami,-200
+2021-04-28,New Orleans,145
+2021-04-28,Denver,-165
+2021-04-28,Portland,105
+2021-04-28,Memphis,-125
+2021-04-28,Utah,-425
+2021-04-28,Sacramento,325
+2021-04-28,L.A. Clippers,160
+2021-04-28,Phoenix,-180
+2021-04-29,Dallas,-320
+2021-04-29,Detroit,260
+2021-04-29,Brooklyn,-220
+2021-04-29,Indiana,180
+2021-04-29,Milwaukee,-1200
+2021-04-29,Houston,750
+2021-04-29,Golden State,-175
+2021-04-29,Minnesota,155
+2021-04-29,Toronto,167
+2021-04-29,Denver,-192
+2021-04-29,New Orleans,-425
+2021-04-29,Oklahoma City,325
+2021-04-30,Atlanta,375
+2021-04-30,Philadelphia,-500
+2021-04-30,San Antonio,165
+2021-04-30,Boston,-185
+2021-04-30,Washington,-275
+2021-04-30,Cleveland,225
+2021-04-30,Orlando,625
+2021-04-30,Memphis,-950
+2021-04-30,Portland,-140
+2021-04-30,Brooklyn,120
+2021-04-30,Milwaukee,-125
+2021-04-30,Chicago,105
+2021-04-30,Utah,145
+2021-04-30,Phoenix,-165
+2021-04-30,Sacramento,500
+2021-04-30,L.A. Lakers,-700
+2021-05-01,Detroit,260
+2021-05-01,Charlotte,-320
+2021-05-01,Golden State,-400
+2021-05-01,Houston,320
+2021-05-01,Indiana,-300
+2021-05-01,Oklahoma City,240
+2021-05-01,Miami,-750
+2021-05-01,Cleveland,525
+2021-05-01,Memphis,-750
+2021-05-01,Orlando,525
+2021-05-01,New Orleans,-160
+2021-05-01,Minnesota,140
+2021-05-01,Chicago,190
+2021-05-01,Atlanta,-230
+2021-05-01,Washington,165
+2021-05-01,Dallas,-185
+2021-05-01,Denver,180
+2021-05-01,L.A. Clippers,-220
+2021-05-01,Toronto,230
+2021-05-01,Utah,-280
+2021-05-02,Brooklyn,115
+2021-05-02,Milwaukee,-135
+2021-05-02,Portland,-115
+2021-05-02,Boston,-105
+2021-05-02,New York,-600
+2021-05-02,Houston,450
+2021-05-02,Phoenix,-1500
+2021-05-02,Oklahoma City,900
+2021-05-02,Sacramento,220
+2021-05-02,Dallas,-270
+2021-05-02,Philadelphia,-550
+2021-05-02,San Antonio,425
+2021-05-02,Miami,-220
+2021-05-02,Charlotte,180
+2021-05-02,Toronto,400
+2021-05-02,L.A. Lakers,-525
+2021-05-03,Indiana,160
+2021-05-03,Washington,-180
+2021-05-03,Orlando,105
+2021-05-03,Detroit,-125
+2021-05-03,Golden State,105
+2021-05-03,New Orleans,-125
+2021-05-03,Portland,110
+2021-05-03,Atlanta,-130
+2021-05-03,Philadelphia,-310
+2021-05-03,Chicago,250
+2021-05-03,New York,150
+2021-05-03,Memphis,-170
+2021-05-03,Denver,-170
+2021-05-03,L.A. Lakers,150
+2021-05-03,San Antonio,260
+2021-05-03,Utah,-320
+2021-05-04,Phoenix,-1000
+2021-05-04,Cleveland,650
+2021-05-04,Charlotte,-185
+2021-05-04,Detroit,165
+2021-05-04,Brooklyn,110
+2021-05-04,Milwaukee,-130
+2021-05-04,Dallas,-110
+2021-05-04,Miami,-110
+2021-05-04,Sacramento,-210
+2021-05-04,Oklahoma City,175
+2021-05-04,Golden State,105
+2021-05-04,New Orleans,-125
+2021-05-04,Toronto,475
+2021-05-04,L.A. Clippers,-650
+2021-05-05,Boston,-800
+2021-05-05,Orlando,550
+2021-05-05,Portland,-800
+2021-05-05,Cleveland,550
+2021-05-05,Sacramento,215
+2021-05-05,Indiana,-260
+2021-05-05,Washington,140
+2021-05-05,Milwaukee,-160
+2021-05-05,Memphis,-160
+2021-05-05,Minnesota,140
+2021-05-05,Phoenix,-115
+2021-05-05,Atlanta,-105
+2021-05-05,Philadelphia,-1300
+2021-05-05,Houston,800
+2021-05-05,San Antonio,220
+2021-05-05,Utah,-270
+2021-05-05,New York,140
+2021-05-05,Denver,-160
+2021-05-06,Chicago,-180
+2021-05-06,Charlotte,160
+2021-05-06,Washington,-120
+2021-05-06,Toronto,100
+2021-05-06,Brooklyn,-140
+2021-05-06,Dallas,120
+2021-05-06,Atlanta,-240
+2021-05-06,Indiana,200
+2021-05-06,Memphis,-450
+2021-05-06,Detroit,350
+2021-05-06,Oklahoma City,750
+2021-05-06,Golden State,-1200
+2021-05-06,L.A. Lakers,300
+2021-05-06,L.A. Clippers,-380
+2021-05-07,New Orleans,425
+2021-05-07,Philadelphia,-550
+2021-05-07,Boston,-180
+2021-05-07,Chicago,160
+2021-05-07,Minnesota,275
+2021-05-07,Miami,-350
+2021-05-07,Houston,1150
+2021-05-07,Milwaukee,-2200
+2021-05-07,Orlando,260
+2021-05-07,Charlotte,-320
+2021-05-07,Cleveland,450
+2021-05-07,Dallas,-600
+2021-05-07,Denver,160
+2021-05-07,Utah,-180
+2021-05-07,New York,220
+2021-05-07,Phoenix,-270
+2021-05-07,San Antonio,-185
+2021-05-07,Sacramento,165
+2021-05-07,L.A. Lakers,275
+2021-05-07,Portland,-350
+2021-05-08,Detroit,350
+2021-05-08,Philadelphia,-450
+2021-05-08,Washington,-155
+2021-05-08,Indiana,135
+2021-05-08,Memphis,-240
+2021-05-08,Toronto,200
+2021-05-08,Oklahoma City,850
+2021-05-08,Golden State,-1400
+2021-05-08,Houston,1000
+2021-05-08,Utah,-1700
+2021-05-08,Brooklyn,-160
+2021-05-08,Denver,140
+2021-05-08,San Antonio,180
+2021-05-08,Portland,-220
+2021-05-09,Miami,-105
+2021-05-09,Boston,-115
+2021-05-09,New York,265
+2021-05-09,L.A. Clippers,-330
+2021-05-09,Dallas,-600
+2021-05-09,Cleveland,450
+2021-05-09,New Orleans,130
+2021-05-09,Charlotte,-150
+2021-05-09,Minnesota,-310
+2021-05-09,Orlando,250
+2021-05-09,Chicago,-400
+2021-05-09,Detroit,320
+2021-05-09,Phoenix,-250
+2021-05-09,L.A. Lakers,210
+2021-05-09,Oklahoma City,350
+2021-05-09,Sacramento,-450
+2021-05-10,Washington,280
+2021-05-10,Atlanta,-360
+2021-05-10,Indiana,-450
+2021-05-10,Cleveland,350
+2021-05-10,New Orleans,375
+2021-05-10,Memphis,-500
+2021-05-10,Milwaukee,-290
+2021-05-10,San Antonio,235
+2021-05-10,Utah,-130
+2021-05-10,Golden State,110
+2021-05-10,Houston,1125
+2021-05-10,Portland,-2000
+2021-05-11,Denver,-240
+2021-05-11,Charlotte,200
+2021-05-11,Minnesota,-300
+2021-05-11,Detroit,240
+2021-05-11,Miami,-120
+2021-05-11,Boston,100
+2021-05-11,L.A. Clippers,-1200
+2021-05-11,Toronto,750
+2021-05-11,Dallas,-150
+2021-05-11,Memphis,130
+2021-05-11,Brooklyn,-185
+2021-05-11,Chicago,165
+2021-05-11,Philadelphia,-200
+2021-05-11,Indiana,170
+2021-05-11,Orlando,900
+2021-05-11,Milwaukee,-1500
+2021-05-11,Oklahoma City,400
+2021-05-11,Sacramento,-525
+2021-05-11,New York,125
+2021-05-11,L.A. Lakers,-145
+2021-05-11,Phoenix,-180
+2021-05-11,Golden State,160
+2021-05-12,Washington,220
+2021-05-12,Atlanta,-270
+2021-05-12,San Antonio,165
+2021-05-12,Brooklyn,-185
+2021-05-12,Boston,-245
+2021-05-12,Cleveland,205
+2021-05-12,New Orleans,350
+2021-05-12,Dallas,-450
+2021-05-12,Portland,-105
+2021-05-12,Utah,-115
+2021-05-12,Houston,550
+2021-05-12,L.A. Lakers,-800
+2021-05-13,Milwaukee,-450
+2021-05-13,Indiana,350
+2021-05-13,L.A. Clippers,-400
+2021-05-13,Charlotte,320
+2021-05-13,Orlando,650
+2021-05-13,Atlanta,-1000
+2021-05-13,Philadelphia,100
+2021-05-13,Miami,-120
+2021-05-13,San Antonio,170
+2021-05-13,New York,-200
+2021-05-13,Sacramento,310
+2021-05-13,Memphis,-390
+2021-05-13,Denver,-130
+2021-05-13,Minnesota,110
+2021-05-13,Toronto,425
+2021-05-13,Chicago,-550
+2021-05-13,Portland,115
+2021-05-13,Phoenix,-135
+2021-05-14,Cleveland,320
+2021-05-14,Washington,-400
+2021-05-14,Utah,-1600
+2021-05-14,Oklahoma City,950
+2021-05-14,Orlando,900
+2021-05-14,Philadelphia,-1500
+2021-05-14,Denver,-380
+2021-05-14,Detroit,300
+2021-05-14,L.A. Clippers,-310
+2021-05-14,Houston,250
+2021-05-14,Sacramento,140
+2021-05-14,Memphis,-160
+2021-05-14,Toronto,1000
+2021-05-14,Dallas,-1700
+2021-05-14,New Orleans,100
+2021-05-14,Golden State,-120
+2021-05-15,L.A. Lakers,-400
+2021-05-15,Indiana,320
+2021-05-15,Chicago,500
+2021-05-15,Brooklyn,-700
+2021-05-15,Charlotte,190
+2021-05-15,New York,-230
+2021-05-15,Boston,170
+2021-05-15,Minnesota,-200
+2021-05-15,Phoenix,-700
+2021-05-15,San Antonio,500
+2021-05-15,Miami,150
+2021-05-15,Milwaukee,-170
+2021-05-16,Indiana,-235
+2021-05-16,Toronto,195
+2021-05-16,Boston,600
+2021-05-16,New York,-900
+2021-05-16,Charlotte,225
+2021-05-16,Washington,-275
+2021-05-16,Phoenix,-400
+2021-05-16,San Antonio,320
+2021-05-16,Memphis,140
+2021-05-16,Golden State,-160
+2021-05-16,Orlando,195
+2021-05-16,Philadelphia,-235
+2021-05-16,Cleveland,700
+2021-05-16,Brooklyn,-1100
+2021-05-16,Houston,240
+2021-05-16,Atlanta,-300
+2021-05-16,Miami,-145
+2021-05-16,Detroit,125
+2021-05-16,Denver,310
+2021-05-16,Portland,-390
+2021-05-16,L.A. Lakers,-270
+2021-05-16,New Orleans,220
+2021-05-16,Milwaukee,-230
+2021-05-16,Chicago,190
+2021-05-16,L.A. Clippers,-425
+2021-05-16,Oklahoma City,325
+2021-05-16,Utah,-800
+2021-05-16,Sacramento,550
+2021-05-16,Dallas,-250
+2021-05-16,Minnesota,210
+2021-05-18,Charlotte,105
+2021-05-18,Indiana,-125
+2021-05-18,Washington,110
+2021-05-18,Boston,-130
+2021-05-19,San Antonio,160
+2021-05-19,Memphis,-180
+2021-05-19,Golden State,205
+2021-05-19,L.A. Lakers,-245
+2021-05-20,Indiana,145
+2021-05-20,Washington,-165
+2021-05-21,Memphis,175
+2021-05-21,Golden State,-210
+2021-05-22,Miami,180
+2021-05-22,Milwaukee,-220
+2021-05-22,Dallas,200
+2021-05-22,L.A. Clippers,-240
+2021-05-22,Boston,320
+2021-05-22,Brooklyn,-400
+2021-05-22,Portland,-105
+2021-05-22,Denver,-115
+2021-05-23,Washington,280
+2021-05-23,Philadelphia,-360
+2021-05-23,Los Angeles,110
+2021-05-23,Phoenix,-130
+2021-05-23,Atlanta,-110
+2021-05-23,New York,-110
+2021-05-23,Memphis,280
+2021-05-23,Utah,-360
+2021-05-24,Miami,175
+2021-05-24,Milwaukee,-210
+2021-05-24,Portland,110
+2021-05-24,Denver,-130
+2021-05-25,Boston,375
+2021-05-25,Brooklyn,-500
+2021-05-25,Los Angeles,-130
+2021-05-25,Phoenix,110
+2021-05-25,Dallas,250
+2021-05-25,L.A. Clippers,-310
+2021-05-26,Washington,290
+2021-05-26,Philadelphia,-370
+2021-05-26,Atlanta,110
+2021-05-26,New York,-130
+2021-05-26,Memphis,375
+2021-05-26,Utah,-500
+2021-05-27,Milwaukee,-115
+2021-05-27,Miami,-105
+2021-05-27,Phoenix,230
+2021-05-27,Los Angeles,-280
+2021-05-27,Denver,150
+2021-05-27,Portland,-170
+2021-05-28,New York,167
+2021-05-28,Atlanta,-192
+2021-05-28,Brooklyn,-310
+2021-05-28,Boston,250
+2021-05-28,L.A. Clippers,-145
+2021-05-28,Dallas,125
+2021-05-29,Milwaukee,-200
+2021-05-29,Miami,170
+2021-05-29,Denver,175
+2021-05-29,Portland,-210
+2021-05-29,Philadelphia,-225
+2021-05-29,Washington,185
+2021-05-29,Utah,-210
+2021-05-29,Memphis,175
+2021-05-30,New York,170
+2021-05-30,Atlanta,-200
+2021-05-30,Phoenix,240
+2021-05-30,Los Angeles,-300
+2021-05-30,Brooklyn,-425
+2021-05-30,Boston,325
+2021-05-30,L.A. Clippers,-165
+2021-05-30,Dallas,145
+2021-05-31,Philadelphia,-380
+2021-05-31,Washington,300
+2021-05-31,Utah,-230
+2021-05-31,Memphis,190
+2021-06-01,Boston,650
+2021-06-01,Brooklyn,-1000
+2021-06-01,Portland,110
+2021-06-01,Denver,-130
+2021-06-01,Los Angeles,170
+2021-06-01,Phoenix,-200
+2021-06-02,Washington,200
+2021-06-02,Philadelphia,-240
+2021-06-02,Atlanta,-105
+2021-06-02,New York,-115
+2021-06-02,Memphis,375
+2021-06-02,Utah,-500
+2021-06-02,Dallas,265
+2021-06-02,L.A. Clippers,-330
+2021-06-03,Denver,170
+2021-06-03,Portland,-200
+2021-06-03,Phoenix,130
+2021-06-03,Los Angeles,-150
+2021-06-04,L.A. Clippers,-150
+2021-06-04,Dallas,130
+2021-06-05,Milwaukee,150
+2021-06-05,Brooklyn,-170
+2021-06-06,Atlanta,167
+2021-06-06,Philadelphia,-192
+2021-06-06,Dallas,210
+2021-06-06,L.A. Clippers,-250
+2021-06-07,Milwaukee,-125
+2021-06-07,Brooklyn,105
+2021-06-07,Denver,200
+2021-06-07,Phoenix,-240
+2021-06-08,Atlanta,220
+2021-06-08,Philadelphia,-270
+2021-06-08,L.A. Clippers,125
+2021-06-08,Utah,-145
+2021-06-09,Denver,180
+2021-06-09,Phoenix,-220
+2021-06-10,Brooklyn,135
+2021-06-10,Milwaukee,-155
+2021-06-10,L.A. Clippers,120
+2021-06-10,Utah,-140
+2021-06-11,Philadelphia,-130
+2021-06-11,Atlanta,110
+2021-06-11,Phoenix,110
+2021-06-11,Denver,-130
+2021-06-12,Utah,170
+2021-06-12,L.A. Clippers,-200
+2021-06-13,Brooklyn,-130
+2021-06-13,Milwaukee,110
+2021-06-13,Phoenix,-150
+2021-06-13,Denver,130
+2021-06-14,Philadelphia,-145
+2021-06-14,Atlanta,125
+2021-06-14,Utah,180
+2021-06-14,L.A. Clippers,-220
+2021-06-15,Milwaukee,-135
+2021-06-15,Brooklyn,115
+2021-06-16,Atlanta,230
+2021-06-16,Philadelphia,-280
+2021-06-16,L.A. Clippers,240
+2021-06-16,Utah,-300
+2021-06-17,Brooklyn,180
+2021-06-17,Milwaukee,-220
+2021-06-18,Philadelphia,-145
+2021-06-18,Atlanta,125
+2021-06-18,Utah,-130
+2021-06-18,L.A. Clippers,110
+2021-06-19,Milwaukee,110
+2021-06-19,Brooklyn,-130
+2021-06-20,L.A. Clippers,145
+2021-06-20,Phoenix,-165
+2021-06-20,Atlanta,240
+2021-06-20,Philadelphia,-300
+2021-06-22,L.A. Clippers,167
+2021-06-22,Phoenix,-192
+2021-06-23,Atlanta,275
+2021-06-23,Milwaukee,-350
+2021-06-24,Phoenix,-115
+2021-06-24,L.A. Clippers,-105
+2021-06-25,Atlanta,280
+2021-06-25,Milwaukee,-360
+2021-06-26,Phoenix,-110
+2021-06-26,L.A. Clippers,-110
+2021-06-27,Milwaukee,-192
+2021-06-27,Atlanta,167
+2021-06-28,L.A. Clippers,225
+2021-06-28,Phoenix,-275
+2021-06-29,Milwaukee,-400
+2021-06-29,Atlanta,320
+2021-06-30,Phoenix,-115
+2021-06-30,L.A. Clippers,-105
+2021-07-01,Atlanta,165
+2021-07-01,Milwaukee,-185
+2021-07-03,Milwaukee,135
+2021-07-03,Atlanta,-155
+2021-07-06,Milwaukee,175
+2021-07-06,Phoenix,-210
+2021-07-08,Milwaukee,167
+2021-07-08,Phoenix,-192
+2021-07-11,Phoenix,170
+2021-07-11,Milwaukee,-200
+2021-07-14,Phoenix,170
+2021-07-14,Milwaukee,-200
+2021-07-17,Milwaukee,150
+2021-07-17,Phoenix,-170
+2021-07-20,Phoenix,165
+2021-07-20,Milwaukee,-185
+2021-10-03,Brooklyn,135
+2021-10-03,L.A. Lakers,-155
+2021-10-04,Philadelphia,115
+2021-10-04,Toronto,-135
+2021-10-04,Orlando,235
+2021-10-04,Boston,-290
+2021-10-04,Atlanta,125
+2021-10-04,Miami,-145
+2021-10-04,Charlotte,-165
+2021-10-04,Oklahoma City,145
+2021-10-04,New Orleans,125
+2021-10-04,Minnesota,-145
+2021-10-04,Utah,-160
+2021-10-04,San Antonio,140
+2021-10-04,Golden State,120
+2021-10-04,Portland,-140
+2021-10-04,Phoenix,115
+2021-10-04,Sacramento,-135
+2021-10-04,Denver,-135
+2021-10-04,L.A. Clippers,115
+2021-10-05,Indiana,140
+2021-10-05,New York,-160
+2021-10-05,Washington,100
+2021-10-05,Houston,-120
+2021-10-05,Cleveland,175
+2021-10-05,Chicago,-210
+2021-10-05,Milwaukee,215
+2021-10-05,Memphis,-260
+2021-10-06,L.A. Lakers,130
+2021-10-06,Phoenix,-150
+2021-10-06,San Antonio,-170
+2021-10-06,Detroit,150
+2021-10-06,Cleveland,135
+2021-10-06,Atlanta,-155
+2021-10-06,Orlando,130
+2021-10-06,New Orleans,-150
+2021-10-06,Utah,180
+2021-10-06,Dallas,-220
+2021-10-06,Denver,165
+2021-10-06,Golden State,-185
+2021-10-06,Sacramento,105
+2021-10-06,L.A. Clippers,-125
+2021-10-07,Memphis,-130
+2021-10-07,Charlotte,110
+2021-10-07,Toronto,165
+2021-10-07,Philadelphia,-185
+2021-10-07,Miami,-240
+2021-10-07,Houston,200
+2021-10-08,Indiana,-170
+2021-10-08,Cleveland,150
+2021-10-08,Milwaukee,400
+2021-10-08,Brooklyn,-525
+2021-10-08,New Orleans,275
+2021-10-08,Chicago,-350
+2021-10-08,Miami,205
+2021-10-08,San Antonio,-245
+2021-10-08,L.A. Clippers,180
+2021-10-08,Dallas,-220
+2021-10-08,Minnesota,155
+2021-10-08,Denver,-175
+2021-10-08,L.A. Lakers,135
+2021-10-08,Golden State,-155
+2021-10-09,New York,-115
+2021-10-09,Washington,-105
+2021-10-09,Toronto,130
+2021-10-09,Boston,-150
+2021-10-09,Atlanta,-125
+2021-10-09,Memphis,105
+2021-10-10,San Antonio,-135
+2021-10-10,Orlando,115
+2021-10-10,Chicago,-330
+2021-10-10,Cleveland,265
+2021-10-10,Oklahoma City,215
+2021-10-10,Milwaukee,-260
+2021-10-10,Phoenix,-135
+2021-10-10,L.A. Lakers,115
+2021-10-11,Houston,180
+2021-10-11,Toronto,-220
+2021-10-11,Charlotte,270
+2021-10-11,Miami,-340
+2021-10-11,Brooklyn,-280
+2021-10-11,Philadelphia,230
+2021-10-11,Detroit,200
+2021-10-11,Memphis,-240
+2021-10-11,New Orleans,280
+2021-10-11,Utah,-360
+2021-10-11,Sacramento,-300
+2021-10-11,Portland,240
+2021-10-11,Minnesota,-130
+2021-10-11,L.A. Clippers,110
+2021-10-12,Toronto,250
+2021-10-12,Washington,-310
+2021-10-12,Golden State,230
+2021-10-12,L.A. Lakers,-280
+2021-10-13,Portland,220
+2021-10-13,Phoenix,-270
+2021-10-13,Dallas,-290
+2021-10-13,Charlotte,235
+2021-10-13,Memphis,260
+2021-10-13,Indiana,-320
+2021-10-13,Boston,200
+2021-10-13,Orlando,-240
+2021-10-13,Detroit,275
+2021-10-13,New York,-350
+2021-10-13,Denver,-350
+2021-10-13,Oklahoma City,275
+2021-10-13,Milwaukee,150
+2021-10-13,Utah,-170
+2021-10-14,Miami,525
+2021-10-14,Atlanta,-750
+2021-10-14,Minnesota,255
+2021-10-14,Brooklyn,-315
+2021-10-14,Denver,-200
+2021-10-14,Oklahoma City,170
+2021-10-14,L.A. Lakers,-145
+2021-10-14,Sacramento,125
+2021-10-15,Boston,275
+2021-10-15,Miami,-350
+2021-10-15,Philadelphia,125
+2021-10-15,Detroit,-145
+2021-10-15,Cleveland,195
+2021-10-15,Indiana,-235
+2021-10-15,Washington,190
+2021-10-15,New York,-230
+2021-10-15,Memphis,170
+2021-10-15,Chicago,-200
+2021-10-15,Dallas,425
+2021-10-15,Milwaukee,-550
+2021-10-15,Houston,150
+2021-10-15,San Antonio,-170
+2021-10-15,Portland,290
+2021-10-15,Golden State,-370
+2021-10-19,Brooklyn,105
+2021-10-19,Milwaukee,-125
+2021-10-19,Golden State,130
+2021-10-19,L.A. Lakers,-150
+2021-10-20,Indiana,-125
+2021-10-20,Charlotte,105
+2021-10-20,Chicago,-220
+2021-10-20,Detroit,180
+2021-10-20,Washington,120
+2021-10-20,Toronto,-140
+2021-10-20,Boston,110
+2021-10-20,New York,-130
+2021-10-20,Cleveland,240
+2021-10-20,Memphis,-300
+2021-10-20,Houston,205
+2021-10-20,Minnesota,-245
+2021-10-20,Philadelphia,-165
+2021-10-20,New Orleans,145
+2021-10-20,Orlando,215
+2021-10-20,San Antonio,-260
+2021-10-20,Oklahoma City,700
+2021-10-20,Utah,-1100
+2021-10-20,Denver,210
+2021-10-20,Phoenix,-250
+2021-10-20,Sacramento,215
+2021-10-20,Portland,-260
+2021-10-21,Dallas,120
+2021-10-21,Atlanta,-140
+2021-10-21,Milwaukee,-125
+2021-10-21,Miami,105
+2021-10-21,L.A. Clippers,140
+2021-10-21,Golden State,-160
+2021-10-23,Atlanta,-350
+2021-10-23,Cleveland,275
+2021-10-23,Miami,-175
+2021-10-23,Indiana,155
+2021-10-23,Dallas,-175
+2021-10-23,Toronto,155
+2021-10-23,New Orleans,240
+2021-10-23,Minnesota,-300
+2021-10-23,Detroit,275
+2021-10-23,Chicago,-350
+2021-10-23,Milwaukee,-250
+2021-10-23,San Antonio,210
+2021-10-23,Phoenix,130
+2021-10-23,Portland,-150
+2021-10-23,Memphis,150
+2021-10-23,L.A. Clippers,-170
+2021-10-25,Milwaukee,-155
+2021-10-25,Indiana,135
+2021-10-25,Boston,-115
+2021-10-25,Charlotte,-105
+2021-10-25,Chicago,-145
+2021-10-25,Toronto,125
+2021-10-25,Orlando,900
+2021-10-25,Miami,-1500
+2021-10-25,Detroit,450
+2021-10-25,Atlanta,-600
+2021-10-25,Washington,290
+2021-10-25,Brooklyn,-370
+2021-10-25,New Orleans,185
+2021-10-25,Minnesota,-225
+2021-10-25,Cleveland,475
+2021-10-25,Denver,-650
+2021-10-25,Portland,130
+2021-10-25,L.A. Clippers,-150
+2021-10-26,Philadelphia,-105
+2021-10-26,New York,-115
+2021-10-26,Golden State,-500
+2021-10-26,Oklahoma City,375
+2021-10-26,Houston,500
+2021-10-26,Dallas,-700
+2021-10-26,L.A. Lakers,120
+2021-10-26,San Antonio,-140
+2021-10-26,Denver,255
+2021-10-26,Utah,-315
+2021-10-27,Charlotte,-225
+2021-10-27,Orlando,185
+2021-10-27,Atlanta,-220
+2021-10-27,New Orleans,180
+2021-10-27,Indiana,100
+2021-10-27,Toronto,-120
+2021-10-27,Washington,160
+2021-10-27,Boston,-180
+2021-10-27,Miami,140
+2021-10-27,Brooklyn,-160
+2021-10-27,Minnesota,210
+2021-10-27,Milwaukee,-250
+2021-10-27,L.A. Lakers,-235
+2021-10-27,Oklahoma City,195
+2021-10-27,Sacramento,275
+2021-10-27,Phoenix,-350
+2021-10-27,Memphis,115
+2021-10-27,Portland,-135
+2021-10-27,Cleveland,300
+2021-10-27,L.A. Clippers,-380
+2021-10-28,Atlanta,-170
+2021-10-28,Washington,150
+2021-10-28,Detroit,400
+2021-10-28,Philadelphia,-525
+2021-10-28,Utah,-450
+2021-10-28,Houston,350
+2021-10-28,New York,100
+2021-10-28,Chicago,-120
+2021-10-28,San Antonio,210
+2021-10-28,Dallas,-250
+2021-10-28,Memphis,200
+2021-10-28,Golden State,-240
+2021-10-29,Orlando,350
+2021-10-29,Toronto,-450
+2021-10-29,Indiana,320
+2021-10-29,Brooklyn,-400
+2021-10-29,Charlotte,225
+2021-10-29,Miami,-275
+2021-10-29,Sacramento,-125
+2021-10-29,New Orleans,105
+2021-10-29,Dallas,140
+2021-10-29,Denver,-160
+2021-10-29,L.A. Clippers,135
+2021-10-29,Portland,-155
+2021-10-29,Cleveland,280
+2021-10-29,L.A. Lakers,-360
+2021-10-30,Boston,110
+2021-10-30,Washington,-130
+2021-10-30,Orlando,190
+2021-10-30,Detroit,-230
+2021-10-30,New York,-360
+2021-10-30,New Orleans,280
+2021-10-30,Toronto,130
+2021-10-30,Indiana,-150
+2021-10-30,Atlanta,140
+2021-10-30,Philadelphia,-160
+2021-10-30,San Antonio,235
+2021-10-30,Milwaukee,-290
+2021-10-30,Utah,-155
+2021-10-30,Chicago,135
+2021-10-30,Miami,135
+2021-10-30,Memphis,-155
+2021-10-30,Oklahoma City,600
+2021-10-30,Golden State,-900
+2021-10-30,Denver,100
+2021-10-30,Minnesota,-120
+2021-10-30,Cleveland,375
+2021-10-30,Phoenix,-500
+2021-10-31,Sacramento,155
+2021-10-31,Dallas,-175
+2021-10-31,Utah,-185
+2021-10-31,Milwaukee,165
+2021-10-31,Portland,-130
+2021-10-31,Charlotte,110
+2021-10-31,Detroit,550
+2021-10-31,Brooklyn,-800
+2021-10-31,Houston,475
+2021-10-31,L.A. Lakers,-650
+2021-11-01,Portland,100
+2021-11-01,Philadelphia,-120
+2021-11-01,San Antonio,120
+2021-11-01,Indiana,-140
+2021-11-01,Cleveland,175
+2021-11-01,Charlotte,-210
+2021-11-01,Toronto,230
+2021-11-01,New York,-280
+2021-11-01,Washington,175
+2021-11-01,Atlanta,-210
+2021-11-01,Chicago,120
+2021-11-01,Boston,-140
+2021-11-01,Denver,-110
+2021-11-01,Memphis,-110
+2021-11-01,Orlando,320
+2021-11-01,Minnesota,-400
+2021-11-01,Oklahoma City,575
+2021-11-01,L.A. Clippers,-850
+2021-11-02,Milwaukee,-200
+2021-11-02,Detroit,170
+2021-11-02,Miami,-140
+2021-11-02,Dallas,120
+2021-11-02,Sacramento,325
+2021-11-02,Utah,-425
+2021-11-02,New Orleans,375
+2021-11-02,Phoenix,-500
+2021-11-02,Houston,475
+2021-11-02,L.A. Lakers,-650
+2021-11-03,New York,-110
+2021-11-03,Indiana,-110
+2021-11-03,Toronto,140
+2021-11-03,Washington,-160
+2021-11-03,Boston,-290
+2021-11-03,Orlando,235
+2021-11-03,Chicago,115
+2021-11-03,Philadelphia,-135
+2021-11-03,Portland,-210
+2021-11-03,Cleveland,175
+2021-11-03,Atlanta,167
+2021-11-03,Brooklyn,-192
+2021-11-03,L.A. Clippers,-140
+2021-11-03,Minnesota,120
+2021-11-03,Denver,-120
+2021-11-03,Memphis,100
+2021-11-03,Dallas,-130
+2021-11-03,San Antonio,110
+2021-11-03,New Orleans,190
+2021-11-03,Sacramento,-230
+2021-11-03,Charlotte,205
+2021-11-03,Golden State,-245
+2021-11-04,Philadelphia,-185
+2021-11-04,Detroit,165
+2021-11-04,Boston,220
+2021-11-04,Miami,-270
+2021-11-04,Utah,-120
+2021-11-04,Atlanta,100
+2021-11-04,Houston,500
+2021-11-04,Phoenix,-700
+2021-11-04,Oklahoma City,450
+2021-11-04,L.A. Lakers,-600
+2021-11-05,Brooklyn,-500
+2021-11-05,Detroit,375
+2021-11-05,San Antonio,-160
+2021-11-05,Orlando,140
+2021-11-05,Memphis,110
+2021-11-05,Washington,-130
+2021-11-05,New York,135
+2021-11-05,Milwaukee,-155
+2021-11-05,Cleveland,190
+2021-11-05,Toronto,-230
+2021-11-05,L.A. Clippers,-140
+2021-11-05,Minnesota,120
+2021-11-05,New Orleans,375
+2021-11-05,Golden State,-500
+2021-11-05,Indiana,180
+2021-11-05,Portland,-220
+2021-11-05,Charlotte,110
+2021-11-05,Sacramento,-130
+2021-11-06,Houston,475
+2021-11-06,Denver,-650
+2021-11-06,Utah,-110
+2021-11-06,Miami,-110
+2021-11-06,Philadelphia,150
+2021-11-06,Chicago,-170
+2021-11-06,Boston,140
+2021-11-06,Dallas,-160
+2021-11-06,Atlanta,140
+2021-11-06,Phoenix,-160
+2021-11-06,L.A. Lakers,170
+2021-11-06,Portland,-200
+2021-11-07,Brooklyn,-155
+2021-11-07,Toronto,135
+2021-11-07,Milwaukee,-115
+2021-11-07,Washington,-105
+2021-11-07,Cleveland,260
+2021-11-07,New York,-320
+2021-11-07,Utah,-650
+2021-11-07,Orlando,475
+2021-11-07,Indiana,120
+2021-11-07,Sacramento,-140
+2021-11-07,San Antonio,-160
+2021-11-07,Oklahoma City,140
+2021-11-07,Houston,600
+2021-11-07,Golden State,-900
+2021-11-07,Charlotte,210
+2021-11-07,L.A. Clippers,-250
+2021-11-08,New York,-130
+2021-11-08,Philadelphia,110
+2021-11-08,Minnesota,160
+2021-11-08,Memphis,-180
+2021-11-08,Brooklyn,-115
+2021-11-08,Chicago,-105
+2021-11-08,New Orleans,325
+2021-11-08,Dallas,-425
+2021-11-08,Miami,-125
+2021-11-08,Denver,105
+2021-11-08,Atlanta,140
+2021-11-08,Golden State,-160
+2021-11-08,Phoenix,-160
+2021-11-08,Sacramento,140
+2021-11-08,Charlotte,120
+2021-11-08,L.A. Lakers,-140
+2021-11-09,Milwaukee,-300
+2021-11-09,Philadelphia,240
+2021-11-09,Atlanta,300
+2021-11-09,Utah,-380
+2021-11-09,Portland,130
+2021-11-09,L.A. Clippers,-150
+2021-11-10,Brooklyn,-450
+2021-11-10,Orlando,350
+2021-11-10,Washington,-155
+2021-11-10,Cleveland,135
+2021-11-10,Milwaukee,140
+2021-11-10,New York,-160
+2021-11-10,Detroit,130
+2021-11-10,Houston,-150
+2021-11-10,Toronto,125
+2021-11-10,Boston,-145
+2021-11-10,Dallas,140
+2021-11-10,Chicago,-160
+2021-11-10,Oklahoma City,155
+2021-11-10,New Orleans,-175
+2021-11-10,Charlotte,165
+2021-11-10,Memphis,-185
+2021-11-10,Sacramento,-110
+2021-11-10,San Antonio,-110
+2021-11-10,Indiana,-150
+2021-11-10,Denver,130
+2021-11-10,Portland,170
+2021-11-10,Phoenix,-200
+2021-11-10,Minnesota,255
+2021-11-10,Golden State,-315
+2021-11-10,Miami,-200
+2021-11-10,L.A. Lakers,170
+2021-11-11,Toronto,150
+2021-11-11,Philadelphia,-170
+2021-11-11,Indiana,425
+2021-11-11,Utah,-550
+2021-11-11,Miami,175
+2021-11-11,L.A. Clippers,-210
+2021-11-12,New York,-125
+2021-11-12,Charlotte,105
+2021-11-12,Milwaukee,-125
+2021-11-12,Boston,105
+2021-11-12,Detroit,165
+2021-11-12,Cleveland,-185
+2021-11-12,Phoenix,-120
+2021-11-12,Memphis,100
+2021-11-12,Portland,-245
+2021-11-12,Houston,205
+2021-11-12,Sacramento,-185
+2021-11-12,Oklahoma City,165
+2021-11-12,Brooklyn,-390
+2021-11-12,New Orleans,310
+2021-11-12,Dallas,-145
+2021-11-12,San Antonio,125
+2021-11-12,Atlanta,155
+2021-11-12,Denver,-175
+2021-11-12,Chicago,185
+2021-11-12,Golden State,-225
+2021-11-12,Minnesota,120
+2021-11-12,L.A. Lakers,-140
+2021-11-13,Miami,225
+2021-11-13,Utah,-275
+2021-11-13,Philadelphia,140
+2021-11-13,Indiana,-160
+2021-11-13,Memphis,-175
+2021-11-13,New Orleans,155
+2021-11-13,Washington,-180
+2021-11-13,Orlando,160
+2021-11-13,Detroit,325
+2021-11-13,Toronto,-425
+2021-11-13,Boston,-140
+2021-11-13,Cleveland,120
+2021-11-13,Minnesota,230
+2021-11-13,L.A. Clippers,-280
+2021-11-14,San Antonio,125
+2021-11-14,L.A. Lakers,-145
+2021-11-14,Milwaukee,115
+2021-11-14,Atlanta,-135
+2021-11-14,Phoenix,-380
+2021-11-14,Houston,300
+2021-11-14,Brooklyn,-400
+2021-11-14,Oklahoma City,320
+2021-11-14,Golden State,-210
+2021-11-14,Charlotte,175
+2021-11-14,Portland,205
+2021-11-14,Denver,-245
+2021-11-14,Chicago,150
+2021-11-14,L.A. Clippers,-170
+2021-11-15,Boston,-175
+2021-11-15,Cleveland,155
+2021-11-15,Sacramento,-175
+2021-11-15,Detroit,155
+2021-11-15,New Orleans,160
+2021-11-15,Washington,-180
+2021-11-15,Orlando,425
+2021-11-15,Atlanta,-550
+2021-11-15,Indiana,140
+2021-11-15,New York,-160
+2021-11-15,Miami,-260
+2021-11-15,Oklahoma City,215
+2021-11-15,Denver,175
+2021-11-15,Dallas,-210
+2021-11-15,Houston,500
+2021-11-15,Memphis,-700
+2021-11-15,Phoenix,-170
+2021-11-15,Minnesota,150
+2021-11-15,Toronto,135
+2021-11-15,Portland,-155
+2021-11-15,Chicago,-130
+2021-11-15,L.A. Lakers,110
+2021-11-16,Golden State,125
+2021-11-16,Brooklyn,-145
+2021-11-16,Philadelphia,400
+2021-11-16,Utah,-525
+2021-11-16,San Antonio,260
+2021-11-16,L.A. Clippers,-320
+2021-11-17,Indiana,-275
+2021-11-17,Detroit,225
+2021-11-17,Washington,-105
+2021-11-17,Charlotte,-115
+2021-11-17,New Orleans,225
+2021-11-17,Miami,-275
+2021-11-17,Boston,170
+2021-11-17,Atlanta,-200
+2021-11-17,Orlando,500
+2021-11-17,New York,-700
+2021-11-17,Cleveland,375
+2021-11-17,Brooklyn,-500
+2021-11-17,L.A. Lakers,325
+2021-11-17,Milwaukee,-425
+2021-11-17,Houston,130
+2021-11-17,Oklahoma City,-150
+2021-11-17,Sacramento,115
+2021-11-17,Minnesota,-135
+2021-11-17,Dallas,280
+2021-11-17,Phoenix,-360
+2021-11-17,Chicago,140
+2021-11-17,Portland,-160
+2021-11-18,Golden State,-500
+2021-11-18,Cleveland,375
+2021-11-18,Washington,215
+2021-11-18,Miami,-260
+2021-11-18,L.A. Clippers,-115
+2021-11-18,Memphis,-105
+2021-11-18,San Antonio,110
+2021-11-18,Minnesota,-130
+2021-11-18,Philadelphia,265
+2021-11-18,Denver,-330
+2021-11-18,Toronto,400
+2021-11-18,Utah,-525
+2021-11-19,Golden State,-130
+2021-11-19,Detroit,110
+2021-11-19,Indiana,-110
+2021-11-19,Charlotte,-110
+2021-11-19,L.A. Lakers,-105
+2021-11-19,Boston,-115
+2021-11-19,Orlando,375
+2021-11-19,Brooklyn,-500
+2021-11-19,L.A. Clippers,-180
+2021-11-19,New Orleans,160
+2021-11-19,Oklahoma City,650
+2021-11-19,Milwaukee,-1000
+2021-11-19,Chicago,-155
+2021-11-19,Denver,135
+2021-11-19,Toronto,140
+2021-11-19,Sacramento,-160
+2021-11-19,Dallas,275
+2021-11-19,Phoenix,-350
+2021-11-20,Houston,525
+2021-11-20,New York,-750
+2021-11-20,New Orleans,250
+2021-11-20,Indiana,-310
+2021-11-20,Miami,-135
+2021-11-20,Washington,115
+2021-11-20,Oklahoma City,350
+2021-11-20,Boston,-450
+2021-11-20,Charlotte,230
+2021-11-20,Atlanta,-280
+2021-11-20,Orlando,600
+2021-11-20,Milwaukee,-900
+2021-11-20,Memphis,120
+2021-11-20,Minnesota,-140
+2021-11-20,Philadelphia,240
+2021-11-20,Portland,-300
+2021-11-20,Utah,-330
+2021-11-20,Sacramento,265
+2021-11-21,Dallas,110
+2021-11-21,L.A. Clippers,-130
+2021-11-21,L.A. Lakers,-320
+2021-11-21,Detroit,260
+2021-11-21,Denver,300
+2021-11-21,Phoenix,-380
+2021-11-21,New York,175
+2021-11-21,Chicago,-210
+2021-11-21,Toronto,425
+2021-11-21,Golden State,-550
+2021-11-23,Miami,-550
+2021-11-23,Detroit,425
+2021-11-23,L.A. Lakers,165
+2021-11-23,New York,-185
+2021-11-23,Denver,325
+2021-11-23,Portland,-425
+2021-11-23,Dallas,130
+2021-11-23,L.A. Clippers,-150
+2021-11-24,Phoenix,-310
+2021-11-24,Cleveland,250
+2021-11-24,Charlotte,-330
+2021-11-24,Orlando,265
+2021-11-24,L.A. Lakers,215
+2021-11-24,Indiana,-260
+2021-11-24,Brooklyn,105
+2021-11-24,Boston,-125
+2021-11-24,Miami,-115
+2021-11-24,Minnesota,-105
+2021-11-24,Toronto,140
+2021-11-24,Memphis,-160
+2021-11-24,Detroit,900
+2021-11-24,Milwaukee,-1500
+2021-11-24,Washington,-160
+2021-11-24,New Orleans,140
+2021-11-24,Utah,-1400
+2021-11-24,Oklahoma City,850
+2021-11-24,Chicago,-450
+2021-11-24,Houston,350
+2021-11-24,Atlanta,-165
+2021-11-24,San Antonio,145
+2021-11-24,Philadelphia,375
+2021-11-24,Golden State,-500
+2021-11-24,Portland,-160
+2021-11-24,Sacramento,140
+2021-11-26,Detroit,500
+2021-11-26,L.A. Clippers,-700
+2021-11-26,Minnesota,110
+2021-11-26,Charlotte,-130
+2021-11-26,Chicago,-450
+2021-11-26,Orlando,350
+2021-11-26,Phoenix,-160
+2021-11-26,New York,140
+2021-11-26,Toronto,170
+2021-11-26,Indiana,-200
+2021-11-26,Washington,-260
+2021-11-26,Oklahoma City,215
+2021-11-26,Atlanta,-115
+2021-11-26,Memphis,-105
+2021-11-26,Boston,-180
+2021-11-26,San Antonio,160
+2021-11-26,New Orleans,700
+2021-11-26,Utah,-1100
+2021-11-26,Milwaukee,-270
+2021-11-26,Denver,220
+2021-11-26,Portland,200
+2021-11-26,Golden State,-240
+2021-11-26,Sacramento,265
+2021-11-26,L.A. Lakers,-330
+2021-11-27,Minnesota,220
+2021-11-27,Philadelphia,-270
+2021-11-27,New York,270
+2021-11-27,Atlanta,-340
+2021-11-27,Phoenix,110
+2021-11-27,Brooklyn,-130
+2021-11-27,Orlando,375
+2021-11-27,Cleveland,-500
+2021-11-27,Miami,-105
+2021-11-27,Chicago,-115
+2021-11-27,Charlotte,-210
+2021-11-27,Houston,175
+2021-11-27,Washington,210
+2021-11-27,Dallas,-250
+2021-11-27,New Orleans,650
+2021-11-27,Utah,-1000
+2021-11-28,Golden State,-140
+2021-11-28,L.A. Clippers,120
+2021-11-28,Milwaukee,-135
+2021-11-28,Indiana,115
+2021-11-28,Boston,-125
+2021-11-28,Toronto,105
+2021-11-28,Sacramento,150
+2021-11-28,Memphis,-170
+2021-11-28,Detroit,400
+2021-11-28,L.A. Lakers,-525
+2021-11-29,Orlando,700
+2021-11-29,Philadelphia,-1100
+2021-11-29,Denver,130
+2021-11-29,Miami,-150
+2021-11-29,Indiana,150
+2021-11-29,Minnesota,-170
+2021-11-29,Oklahoma City,120
+2021-11-29,Houston,-140
+2021-11-29,Charlotte,175
+2021-11-29,Chicago,-210
+2021-11-29,Washington,-155
+2021-11-29,San Antonio,135
+2021-11-29,Cleveland,220
+2021-11-29,Dallas,-270
+2021-11-29,Portland,225
+2021-11-29,Utah,-275
+2021-11-29,New Orleans,235
+2021-11-29,L.A. Clippers,-290
+2021-11-30,New York,205
+2021-11-30,Brooklyn,-245
+2021-11-30,Memphis,125
+2021-11-30,Toronto,-145
+2021-11-30,Detroit,300
+2021-11-30,Portland,-380
+2021-11-30,Golden State,140
+2021-11-30,Phoenix,-160
+2021-11-30,L.A. Lakers,-105
+2021-11-30,Sacramento,-115
+2021-12-01,Denver,-360
+2021-12-01,Orlando,280
+2021-12-01,Atlanta,110
+2021-12-01,Indiana,-130
+2021-12-01,Minnesota,145
+2021-12-01,Washington,-165
+2021-12-01,Cleveland,130
+2021-12-01,Miami,-150
+2021-12-01,Philadelphia,125
+2021-12-01,Boston,-145
+2021-12-01,Houston,115
+2021-12-01,Oklahoma City,-135
+2021-12-01,Dallas,-170
+2021-12-01,New Orleans,150
+2021-12-01,Charlotte,310
+2021-12-01,Milwaukee,-390
+2021-12-01,Sacramento,210
+2021-12-01,L.A. Clippers,-250
+2021-12-02,Milwaukee,-185
+2021-12-02,Toronto,165
+2021-12-02,Chicago,-130
+2021-12-02,New York,110
+2021-12-02,Oklahoma City,325
+2021-12-02,Memphis,-425
+2021-12-02,Detroit,550
+2021-12-02,Phoenix,-800
+2021-12-02,San Antonio,170
+2021-12-02,Portland,-200
+2021-12-03,Miami,180
+2021-12-03,Indiana,-220
+2021-12-03,Cleveland,130
+2021-12-03,Washington,-150
+2021-12-03,Minnesota,325
+2021-12-03,Brooklyn,-425
+2021-12-03,Philadelphia,120
+2021-12-03,Atlanta,-140
+2021-12-03,Orlando,135
+2021-12-03,Houston,-155
+2021-12-03,New Orleans,240
+2021-12-03,Dallas,-300
+2021-12-03,Boston,280
+2021-12-03,Utah,-360
+2021-12-03,Phoenix,250
+2021-12-03,Golden State,-310
+2021-12-03,L.A. Clippers,115
+2021-12-03,L.A. Lakers,-135
+2021-12-04,Denver,115
+2021-12-04,New York,-135
+2021-12-04,Chicago,115
+2021-12-04,Brooklyn,-135
+2021-12-04,Miami,200
+2021-12-04,Milwaukee,-240
+2021-12-04,Memphis,-110
+2021-12-04,Dallas,-110
+2021-12-04,San Antonio,325
+2021-12-04,Golden State,-425
+2021-12-04,Boston,-105
+2021-12-04,Portland,-115
+2021-12-04,L.A. Clippers,-135
+2021-12-04,Sacramento,115
+2021-12-05,Utah,-210
+2021-12-05,Cleveland,175
+2021-12-05,Washington,-105
+2021-12-05,Toronto,-115
+2021-12-05,Charlotte,265
+2021-12-05,Atlanta,-330
+2021-12-05,New Orleans,-145
+2021-12-05,Houston,125
+2021-12-06,Philadelphia,-320
+2021-12-06,Charlotte,260
+2021-12-06,Washington,190
+2021-12-06,Indiana,-230
+2021-12-06,Oklahoma City,130
+2021-12-06,Detroit,-150
+2021-12-06,Memphis,185
+2021-12-06,Miami,-225
+2021-12-06,Atlanta,110
+2021-12-06,Minnesota,-130
+2021-12-06,Cleveland,300
+2021-12-06,Milwaukee,-380
+2021-12-06,Denver,110
+2021-12-06,Chicago,-130
+2021-12-06,San Antonio,245
+2021-12-06,Phoenix,-305
+2021-12-06,L.A. Clippers,-200
+2021-12-06,Portland,170
+2021-12-06,Orlando,1100
+2021-12-06,Golden State,-1800
+2021-12-07,Brooklyn,-125
+2021-12-07,Dallas,105
+2021-12-07,New York,-125
+2021-12-07,San Antonio,105
+2021-12-07,Boston,125
+2021-12-07,L.A. Lakers,-145
+2021-12-08,New York,170
+2021-12-08,Indiana,-200
+2021-12-08,Washington,-210
+2021-12-08,Detroit,175
+2021-12-08,Philadelphia,-275
+2021-12-08,Charlotte,225
+2021-12-08,Chicago,135
+2021-12-08,Cleveland,-155
+2021-12-08,Oklahoma City,270
+2021-12-08,Toronto,-340
+2021-12-08,Milwaukee,-275
+2021-12-08,Miami,225
+2021-12-08,Brooklyn,-165
+2021-12-08,Houston,145
+2021-12-08,Utah,-270
+2021-12-08,Minnesota,220
+2021-12-08,Dallas,100
+2021-12-08,Memphis,-120
+2021-12-08,Denver,-130
+2021-12-08,New Orleans,110
+2021-12-08,Orlando,240
+2021-12-08,Sacramento,-300
+2021-12-08,Portland,950
+2021-12-08,Golden State,-1600
+2021-12-08,Boston,-105
+2021-12-08,L.A. Clippers,-115
+2021-12-09,Utah,-140
+2021-12-09,Philadelphia,120
+2021-12-09,L.A. Lakers,-175
+2021-12-09,Memphis,155
+2021-12-09,Denver,115
+2021-12-09,San Antonio,-135
+2021-12-10,Sacramento,-120
+2021-12-10,Charlotte,100
+2021-12-10,Dallas,110
+2021-12-10,Indiana,-130
+2021-12-10,Brooklyn,110
+2021-12-10,Atlanta,-130
+2021-12-10,New York,105
+2021-12-10,Toronto,-125
+2021-12-10,Cleveland,-125
+2021-12-10,Minnesota,105
+2021-12-10,L.A. Lakers,-170
+2021-12-10,Oklahoma City,150
+2021-12-10,Milwaukee,-425
+2021-12-10,Houston,325
+2021-12-10,Detroit,205
+2021-12-10,New Orleans,-245
+2021-12-10,Boston,140
+2021-12-10,Phoenix,-160
+2021-12-11,Orlando,290
+2021-12-11,L.A. Clippers,-370
+2021-12-11,Utah,-290
+2021-12-11,Washington,235
+2021-12-11,Chicago,-130
+2021-12-11,Miami,110
+2021-12-11,Sacramento,220
+2021-12-11,Cleveland,-270
+2021-12-11,Houston,290
+2021-12-11,Memphis,-370
+2021-12-11,Golden State,-150
+2021-12-11,Philadelphia,130
+2021-12-11,Denver,-110
+2021-12-11,San Antonio,-110
+2021-12-12,Milwaukee,-240
+2021-12-12,New York,200
+2021-12-12,Brooklyn,-315
+2021-12-12,Detroit,255
+2021-12-12,Dallas,-175
+2021-12-12,Oklahoma City,155
+2021-12-12,New Orleans,110
+2021-12-12,San Antonio,-130
+2021-12-12,Minnesota,130
+2021-12-12,Portland,-150
+2021-12-12,Orlando,375
+2021-12-12,L.A. Lakers,-500
+2021-12-13,Sacramento,165
+2021-12-13,Toronto,-185
+2021-12-13,Miami,175
+2021-12-13,Cleveland,-210
+2021-12-13,Golden State,-175
+2021-12-13,Indiana,155
+2021-12-13,Milwaukee,-105
+2021-12-13,Boston,-115
+2021-12-13,Houston,450
+2021-12-13,Atlanta,-600
+2021-12-13,Philadelphia,-115
+2021-12-13,Memphis,-105
+2021-12-13,Charlotte,120
+2021-12-13,Dallas,-140
+2021-12-13,Washington,140
+2021-12-13,Denver,-160
+2021-12-13,Phoenix,-155
+2021-12-13,L.A. Clippers,135
+2021-12-14,Toronto,150
+2021-12-14,Brooklyn,-170
+2021-12-14,Golden State,-235
+2021-12-14,New York,195
+2021-12-14,Phoenix,-115
+2021-12-14,Portland,-105
+2021-12-15,Houston,350
+2021-12-15,Cleveland,-450
+2021-12-15,Atlanta,-400
+2021-12-15,Orlando,320
+2021-12-15,Miami,270
+2021-12-15,Philadelphia,-340
+2021-12-15,L.A. Lakers,-165
+2021-12-15,Dallas,145
+2021-12-15,New Orleans,-192
+2021-12-15,Oklahoma City,167
+2021-12-15,Indiana,-155
+2021-12-15,Milwaukee,135
+2021-12-15,Charlotte,130
+2021-12-15,San Antonio,-150
+2021-12-15,Minnesota,155
+2021-12-15,Denver,-175
+2021-12-15,Washington,-130
+2021-12-15,Sacramento,110
+2021-12-15,Memphis,-110
+2021-12-15,Portland,-110
+2021-12-15,L.A. Clippers,625
+2021-12-15,Utah,-950
+2021-12-16,Detroit,400
+2021-12-16,Indiana,-525
+2021-12-16,Philadelphia,-145
+2021-12-16,Brooklyn,125
+2021-12-16,New York,-230
+2021-12-16,Houston,190
+2021-12-16,Washington,325
+2021-12-16,Phoenix,-425
+2021-12-17,Miami,-390
+2021-12-17,Orlando,310
+2021-12-17,Denver,140
+2021-12-17,Atlanta,-160
+2021-12-17,Golden State,-175
+2021-12-17,Boston,155
+2021-12-17,Milwaukee,100
+2021-12-17,New Orleans,-120
+2021-12-17,San Antonio,525
+2021-12-17,Utah,-750
+2021-12-17,Charlotte,105
+2021-12-17,Portland,-125
+2021-12-17,L.A. Lakers,-115
+2021-12-17,Minnesota,-105
+2021-12-17,Memphis,-250
+2021-12-17,Sacramento,210
+2021-12-18,Houston,-105
+2021-12-18,Detroit,-115
+2021-12-18,New York,200
+2021-12-18,Boston,-240
+2021-12-18,Orlando,175
+2021-12-18,Brooklyn,-210
+2021-12-18,Golden State,270
+2021-12-18,Toronto,-340
+2021-12-18,L.A. Clippers,-185
+2021-12-18,Oklahoma City,165
+2021-12-18,Cleveland,-230
+2021-12-18,Milwaukee,190
+2021-12-18,Washington,375
+2021-12-18,Utah,-500
+2021-12-19,Portland,160
+2021-12-19,Memphis,-180
+2021-12-19,San Antonio,-185
+2021-12-19,Sacramento,165
+2021-12-19,Miami,-260
+2021-12-19,Detroit,215
+2021-12-19,L.A. Lakers,230
+2021-12-19,Chicago,-280
+2021-12-19,Charlotte,280
+2021-12-19,Phoenix,-360
+2021-12-19,Dallas,145
+2021-12-19,Minnesota,-165
+2021-12-19,New Orleans,150
+2021-12-19,Philadelphia,-170
+2021-12-19,Denver,-390
+2021-12-19,Brooklyn,310
+2021-12-19,Cleveland,135
+2021-12-19,Atlanta,-155
+2021-12-20,Philadelphia,130
+2021-12-20,Boston,-150
+2021-12-20,Houston,255
+2021-12-20,Chicago,-315
+2021-12-20,Oklahoma City,320
+2021-12-20,Memphis,-400
+2021-12-20,Charlotte,650
+2021-12-20,Utah,-1000
+2021-12-20,Sacramento,650
+2021-12-20,Golden State,-1000
+2021-12-20,San Antonio,200
+2021-12-20,L.A. Clippers,-240
+2021-12-21,Detroit,245
+2021-12-21,New York,-305
+2021-12-21,Indiana,-135
+2021-12-21,Miami,115
+2021-12-21,Portland,-110
+2021-12-21,New Orleans,-110
+2021-12-21,Minnesota,-135
+2021-12-21,Dallas,115
+2021-12-21,Phoenix,-305
+2021-12-21,L.A. Lakers,245
+2021-12-22,Orlando,240
+2021-12-22,Atlanta,-300
+2021-12-22,Cleveland,215
+2021-12-22,Boston,-260
+2021-12-22,Denver,-260
+2021-12-22,Oklahoma City,215
+2021-12-22,Houston,325
+2021-12-22,Milwaukee,-425
+2021-12-22,L.A. Clippers,-185
+2021-12-22,Sacramento,165
+2021-12-22,Toronto,425
+2021-12-22,Chicago,-550
+2021-12-23,New Orleans,-185
+2021-12-23,Orlando,165
+2021-12-23,Houston,225
+2021-12-23,Indiana,-275
+2021-12-23,Atlanta,500
+2021-12-23,Philadelphia,-700
+2021-12-23,Detroit,550
+2021-12-23,Miami,-800
+2021-12-23,Washington,130
+2021-12-23,New York,-150
+2021-12-23,Milwaukee,-170
+2021-12-23,Dallas,150
+2021-12-23,Oklahoma City,850
+2021-12-23,Phoenix,-1400
+2021-12-23,Minnesota,850
+2021-12-23,Utah,-1400
+2021-12-23,Charlotte,115
+2021-12-23,Denver,-135
+2021-12-23,Memphis,185
+2021-12-23,Golden State,-225
+2021-12-23,San Antonio,105
+2021-12-23,L.A. Lakers,-125
+2021-12-25,Atlanta,190
+2021-12-25,New York,-230
+2021-12-25,Boston,255
+2021-12-25,Milwaukee,-315
+2021-12-25,Golden State,205
+2021-12-25,Phoenix,-245
+2021-12-25,Brooklyn,125
+2021-12-25,L.A. Lakers,-145
+2021-12-25,Dallas,650
+2021-12-25,Utah,-1000
+2021-12-26,Orlando,425
+2021-12-26,Miami,-550
+2021-12-26,Philadelphia,-175
+2021-12-26,Washington,155
+2021-12-26,Toronto,320
+2021-12-26,Cleveland,-400
+2021-12-26,Memphis,-135
+2021-12-26,Sacramento,115
+2021-12-26,Detroit,375
+2021-12-26,San Antonio,-500
+2021-12-26,New Orleans,-125
+2021-12-26,Oklahoma City,105
+2021-12-26,Indiana,155
+2021-12-26,Chicago,-175
+2021-12-26,Denver,-165
+2021-12-26,L.A. Clippers,145
+2021-12-27,Houston,270
+2021-12-27,Charlotte,-340
+2021-12-27,Chicago,-165
+2021-12-27,Atlanta,145
+2021-12-27,Boston,-200
+2021-12-27,Minnesota,170
+2021-12-27,Utah,-280
+2021-12-27,San Antonio,230
+2021-12-27,Memphis,255
+2021-12-27,Phoenix,-315
+2021-12-27,Dallas,130
+2021-12-27,Portland,-150
+2021-12-27,Brooklyn,-165
+2021-12-27,L.A. Clippers,145
+2021-12-28,Milwaukee,-1400
+2021-12-28,Orlando,850
+2021-12-28,Philadelphia,-240
+2021-12-28,Toronto,200
+2021-12-28,Washington,270
+2021-12-28,Miami,-340
+2021-12-28,L.A. Lakers,-230
+2021-12-28,Houston,190
+2021-12-28,New York,-200
+2021-12-28,Minnesota,170
+2021-12-28,Cleveland,-180
+2021-12-28,New Orleans,160
+2021-12-28,Oklahoma City,195
+2021-12-28,Sacramento,-235
+2021-12-28,Denver,275
+2021-12-28,Golden State,-350
+2021-12-29,Charlotte,140
+2021-12-29,Indiana,-160
+2021-12-29,New York,-370
+2021-12-29,Detroit,290
+2021-12-29,L.A. Clippers,195
+2021-12-29,Boston,-235
+2021-12-29,L.A. Lakers,190
+2021-12-29,Memphis,-230
+2021-12-29,Atlanta,280
+2021-12-29,Chicago,-360
+2021-12-29,Oklahoma City,1000
+2021-12-29,Phoenix,-1700
+2021-12-29,Utah,-330
+2021-12-29,Portland,265
+2021-12-29,Dallas,-110
+2021-12-29,Sacramento,-110
+2021-12-29,Miami,200
+2021-12-29,San Antonio,-240
+2021-12-30,Cleveland,150
+2021-12-30,Washington,-170
+2021-12-30,Milwaukee,-1200
+2021-12-30,Orlando,750
+2021-12-30,Philadelphia,170
+2021-12-30,Brooklyn,-200
+2021-12-30,Golden State,-230
+2021-12-30,Denver,190
+2021-12-31,Phoenix,-160
+2021-12-31,Boston,140
+2021-12-31,Chicago,-155
+2021-12-31,Indiana,135
+2021-12-31,Dallas,-115
+2021-12-31,Sacramento,-105
+2021-12-31,Miami,-200
+2021-12-31,Houston,170
+2021-12-31,L.A. Clippers,215
+2021-12-31,Toronto,-260
+2021-12-31,Atlanta,105
+2021-12-31,Cleveland,-125
+2021-12-31,San Antonio,185
+2021-12-31,Memphis,-225
+2021-12-31,New York,-145
+2021-12-31,Oklahoma City,125
+2021-12-31,Minnesota,575
+2021-12-31,Utah,-850
+2021-12-31,Portland,200
+2021-12-31,L.A. Lakers,-240
+2022-01-01,New Orleans,600
+2022-01-01,Milwaukee,-900
+2022-01-01,Chicago,-130
+2022-01-01,Washington,110
+2022-01-01,San Antonio,-260
+2022-01-01,Detroit,215
+2022-01-01,L.A. Clippers,800
+2022-01-01,Brooklyn,-1300
+2022-01-01,Denver,-330
+2022-01-01,Houston,265
+2022-01-01,Golden State,170
+2022-01-01,Utah,-200
+2022-01-02,New York,290
+2022-01-02,Toronto,-370
+2022-01-02,Indiana,155
+2022-01-02,Cleveland,-175
+2022-01-02,Orlando,425
+2022-01-02,Boston,-550
+2022-01-02,Miami,-160
+2022-01-02,Sacramento,140
+2022-01-02,Phoenix,-130
+2022-01-02,Charlotte,110
+2022-01-02,Dallas,-525
+2022-01-02,Oklahoma City,400
+2022-01-02,Minnesota,270
+2022-01-02,L.A. Lakers,-340
+2022-01-03,Charlotte,115
+2022-01-03,Washington,-135
+2022-01-03,Houston,650
+2022-01-03,Philadelphia,-1000
+2022-01-03,Memphis,210
+2022-01-03,Brooklyn,-250
+2022-01-03,Detroit,1125
+2022-01-03,Milwaukee,-2000
+2022-01-03,Orlando,700
+2022-01-03,Chicago,-1100
+2022-01-03,Utah,-380
+2022-01-03,New Orleans,300
+2022-01-03,Denver,125
+2022-01-03,Dallas,-145
+2022-01-03,Atlanta,-175
+2022-01-03,Portland,155
+2022-01-03,Miami,425
+2022-01-03,Golden State,-550
+2022-01-03,Minnesota,135
+2022-01-03,L.A. Clippers,-155
+2022-01-04,San Antonio,230
+2022-01-04,Toronto,-280
+2022-01-04,Memphis,135
+2022-01-04,Cleveland,-155
+2022-01-04,Indiana,135
+2022-01-04,New York,-155
+2022-01-04,Phoenix,-275
+2022-01-04,New Orleans,225
+2022-01-04,Sacramento,200
+2022-01-04,L.A. Lakers,-240
+2022-01-05,Houston,250
+2022-01-05,Washington,-310
+2022-01-05,Philadelphia,-380
+2022-01-05,Orlando,300
+2022-01-05,Detroit,425
+2022-01-05,Charlotte,-550
+2022-01-05,San Antonio,265
+2022-01-05,Boston,-330
+2022-01-05,Brooklyn,-370
+2022-01-05,Indiana,290
+2022-01-05,Golden State,-180
+2022-01-05,Dallas,160
+2022-01-05,Toronto,115
+2022-01-05,Milwaukee,-135
+2022-01-05,Oklahoma City,325
+2022-01-05,Minnesota,-425
+2022-01-05,Utah,-105
+2022-01-05,Denver,-115
+2022-01-05,Atlanta,100
+2022-01-05,Sacramento,-120
+2022-01-05,Miami,-140
+2022-01-05,Portland,120
+2022-01-06,Boston,-135
+2022-01-06,New York,115
+2022-01-06,Golden State,100
+2022-01-06,New Orleans,-120
+2022-01-06,Detroit,650
+2022-01-06,Memphis,-1000
+2022-01-06,L.A. Clippers,450
+2022-01-06,Phoenix,-600
+2022-01-07,San Antonio,290
+2022-01-07,Philadelphia,-370
+2022-01-07,Utah,750
+2022-01-07,Toronto,-1200
+2022-01-07,Milwaukee,165
+2022-01-07,Brooklyn,-185
+2022-01-07,Minnesota,-200
+2022-01-07,Oklahoma City,170
+2022-01-07,Washington,180
+2022-01-07,Chicago,-220
+2022-01-07,Dallas,-155
+2022-01-07,Houston,135
+2022-01-07,Sacramento,265
+2022-01-07,Denver,-330
+2022-01-07,Atlanta,100
+2022-01-07,L.A. Lakers,-120
+2022-01-07,Cleveland,-235
+2022-01-07,Portland,195
+2022-01-08,Memphis,-130
+2022-01-08,L.A. Clippers,110
+2022-01-08,Milwaukee,105
+2022-01-08,Charlotte,-125
+2022-01-08,Utah,-192
+2022-01-08,Indiana,167
+2022-01-08,Orlando,100
+2022-01-08,Detroit,-120
+2022-01-08,New York,270
+2022-01-08,Boston,-340
+2022-01-08,Miami,375
+2022-01-08,Phoenix,-500
+2022-01-09,San Antonio,350
+2022-01-09,Brooklyn,-450
+2022-01-09,Atlanta,-175
+2022-01-09,L.A. Clippers,155
+2022-01-09,Washington,-300
+2022-01-09,Orlando,240
+2022-01-09,New Orleans,240
+2022-01-09,Toronto,-300
+2022-01-09,Minnesota,-260
+2022-01-09,Houston,215
+2022-01-09,Denver,-280
+2022-01-09,Oklahoma City,230
+2022-01-09,Chicago,110
+2022-01-09,Dallas,-130
+2022-01-09,Cleveland,260
+2022-01-09,Golden State,-320
+2022-01-09,Sacramento,-125
+2022-01-09,Portland,105
+2022-01-09,Memphis,130
+2022-01-09,L.A. Lakers,-150
+2022-01-10,San Antonio,205
+2022-01-10,New York,-245
+2022-01-10,Utah,-650
+2022-01-10,Detroit,475
+2022-01-10,Milwaukee,-135
+2022-01-10,Charlotte,115
+2022-01-10,Indiana,290
+2022-01-10,Boston,-370
+2022-01-10,Philadelphia,-500
+2022-01-10,Houston,375
+2022-01-10,Brooklyn,-370
+2022-01-10,Portland,290
+2022-01-10,Cleveland,-200
+2022-01-10,Sacramento,170
+2022-01-11,Oklahoma City,235
+2022-01-11,Washington,-290
+2022-01-11,Phoenix,-180
+2022-01-11,Toronto,160
+2022-01-11,Golden State,-140
+2022-01-11,Memphis,120
+2022-01-11,Detroit,750
+2022-01-11,Chicago,-1200
+2022-01-11,Minnesota,-155
+2022-01-11,New Orleans,135
+2022-01-11,Denver,-140
+2022-01-11,L.A. Clippers,120
+2022-01-12,Boston,-135
+2022-01-12,Indiana,115
+2022-01-12,Charlotte,167
+2022-01-12,Philadelphia,-192
+2022-01-12,Orlando,200
+2022-01-12,Washington,-240
+2022-01-12,Dallas,-130
+2022-01-12,New York,110
+2022-01-12,Miami,130
+2022-01-12,Atlanta,-150
+2022-01-12,Houston,215
+2022-01-12,San Antonio,-260
+2022-01-12,Cleveland,175
+2022-01-12,Utah,-210
+2022-01-12,L.A. Lakers,-170
+2022-01-12,Sacramento,150
+2022-01-12,Brooklyn,105
+2022-01-12,Chicago,-125
+2022-01-13,Golden State,100
+2022-01-13,Milwaukee,-120
+2022-01-13,L.A. Clippers,140
+2022-01-13,New Orleans,-160
+2022-01-13,Minnesota,150
+2022-01-13,Memphis,-170
+2022-01-13,Oklahoma City,195
+2022-01-13,Brooklyn,-235
+2022-01-13,Portland,450
+2022-01-13,Denver,-600
+2022-01-14,Orlando,475
+2022-01-14,Charlotte,-650
+2022-01-14,Boston,130
+2022-01-14,Philadelphia,-150
+2022-01-14,Phoenix,-240
+2022-01-14,Indiana,200
+2022-01-14,Toronto,-425
+2022-01-14,Detroit,325
+2022-01-14,Golden State,125
+2022-01-14,Chicago,-145
+2022-01-14,Atlanta,175
+2022-01-14,Miami,-210
+2022-01-14,Cleveland,-160
+2022-01-14,San Antonio,140
+2022-01-14,Dallas,115
+2022-01-14,Memphis,-135
+2022-01-14,Houston,170
+2022-01-14,Sacramento,-200
+2022-01-18,Minnesota,-150
+2022-01-18,New York,130
+2022-01-18,Detroit,950
+2022-01-18,Golden State,-1600
+2022-01-19,Orlando,550
+2022-01-19,Philadelphia,-800
+2022-01-19,Brooklyn,-105
+2022-01-19,Washington,-115
+2022-01-19,Portland,325
+2022-01-19,Miami,-425
+2022-01-19,Charlotte,140
+2022-01-19,Boston,-160
+2022-01-19,Minnesota,105
+2022-01-19,Atlanta,-125
+2022-01-19,Memphis,215
+2022-01-19,Milwaukee,-260
+2022-01-19,Cleveland,-155
+2022-01-19,Chicago,135
+2022-01-19,Oklahoma City,235
+2022-01-19,San Antonio,-290
+2022-01-19,Toronto,160
+2022-01-19,Dallas,-180
+2022-01-19,Houston,650
+2022-01-19,Utah,-1000
+2022-01-19,Detroit,240
+2022-01-19,Sacramento,-300
+2022-01-19,L.A. Clippers,290
+2022-01-19,Denver,-370
+2022-01-19,Indiana,140
+2022-01-19,L.A. Lakers,-160
+2022-01-20,Phoenix,-135
+2022-01-20,Dallas,115
+2022-01-20,New Orleans,160
+2022-01-20,New York,-180
+2022-01-20,Indiana,750
+2022-01-20,Golden State,-1200
+2022-01-21,L.A. Clippers,275
+2022-01-21,Philadelphia,-350
+2022-01-21,Oklahoma City,320
+2022-01-21,Charlotte,-400
+2022-01-21,L.A. Lakers,-220
+2022-01-21,Orlando,180
+2022-01-21,Portland,275
+2022-01-21,Boston,-350
+2022-01-21,Miami,115
+2022-01-21,Atlanta,-135
+2022-01-21,Chicago,475
+2022-01-21,Milwaukee,-650
+2022-01-21,Toronto,-135
+2022-01-21,Washington,115
+2022-01-21,Detroit,700
+2022-01-21,Utah,-1100
+2022-01-21,Memphis,140
+2022-01-21,Denver,-160
+2022-01-21,Houston,425
+2022-01-21,Golden State,-550
+2022-01-22,Sacramento,225
+2022-01-22,Milwaukee,-275
+2022-01-22,Oklahoma City,550
+2022-01-22,Cleveland,-800
+2022-01-22,Indiana,525
+2022-01-22,Phoenix,-750
+2022-01-24,New York,175
+2022-01-24,Cleveland,-210
+2022-01-24,Chicago,-115
+2022-01-24,Oklahoma City,-105
+2022-01-24,Indiana,150
+2022-01-24,New Orleans,-170
+2022-01-24,Utah,500
+2022-01-24,Phoenix,-700
+2022-01-25,L.A. Clippers,165
+2022-01-25,Washington,-185
+2022-01-25,New Orleans,425
+2022-01-25,Philadelphia,-550
+2022-01-25,Denver,-290
+2022-01-25,Detroit,235
+2022-01-25,Charlotte,120
+2022-01-25,Toronto,-140
+2022-01-25,L.A. Lakers,-160
+2022-01-25,Brooklyn,140
+2022-01-25,Sacramento,325
+2022-01-25,Boston,-425
+2022-01-25,San Antonio,-192
+2022-01-25,Houston,167
+2022-01-25,Dallas,135
+2022-01-25,Golden State,-155
+2022-01-25,Minnesota,-150
+2022-01-25,Portland,130
+2022-01-26,Charlotte,-130
+2022-01-26,Indiana,110
+2022-01-26,Milwaukee,-170
+2022-01-26,Cleveland,150
+2022-01-26,L.A. Clippers,-105
+2022-01-26,Orlando,-115
+2022-01-26,New York,200
+2022-01-26,Miami,-240
+2022-01-26,Sacramento,425
+2022-01-26,Atlanta,-550
+2022-01-26,Denver,-210
+2022-01-26,Brooklyn,175
+2022-01-26,Toronto,150
+2022-01-26,Chicago,-170
+2022-01-26,Memphis,-170
+2022-01-26,San Antonio,150
+2022-01-26,Dallas,-200
+2022-01-26,Portland,170
+2022-01-26,Phoenix,-105
+2022-01-26,Utah,-115
+2022-01-27,L.A. Lakers,210
+2022-01-27,Philadelphia,-250
+2022-01-27,Minnesota,215
+2022-01-27,Golden State,-260
+2022-01-28,Detroit,135
+2022-01-28,Orlando,-155
+2022-01-28,L.A. Lakers,325
+2022-01-28,Charlotte,-425
+2022-01-28,Boston,105
+2022-01-28,Atlanta,-125
+2022-01-28,Denver,-175
+2022-01-28,New Orleans,155
+2022-01-28,Indiana,-125
+2022-01-28,Oklahoma City,105
+2022-01-28,Utah,170
+2022-01-28,Memphis,-200
+2022-01-28,L.A. Clippers,300
+2022-01-28,Miami,-380
+2022-01-28,Portland,-140
+2022-01-28,Houston,120
+2022-01-28,Chicago,110
+2022-01-28,San Antonio,-130
+2022-01-28,Minnesota,275
+2022-01-28,Phoenix,-350
+2022-01-28,New York,325
+2022-01-28,Milwaukee,-425
+2022-01-29,Boston,-270
+2022-01-29,New Orleans,220
+2022-01-29,Indiana,400
+2022-01-29,Dallas,-525
+2022-01-29,Sacramento,425
+2022-01-29,Philadelphia,-550
+2022-01-29,Toronto,120
+2022-01-29,Miami,-140
+2022-01-29,Washington,195
+2022-01-29,Memphis,-235
+2022-01-29,Brooklyn,400
+2022-01-29,Golden State,-525
+2022-01-30,L.A. Clippers,200
+2022-01-30,Charlotte,-240
+2022-01-30,L.A. Lakers,250
+2022-01-30,Atlanta,-310
+2022-01-30,Portland,170
+2022-01-30,Chicago,-200
+2022-01-30,Cleveland,-330
+2022-01-30,Detroit,265
+2022-01-30,Denver,200
+2022-01-30,Milwaukee,-240
+2022-01-30,Dallas,-200
+2022-01-30,Orlando,170
+2022-01-30,San Antonio,650
+2022-01-30,Phoenix,-1000
+2022-01-30,Utah,110
+2022-01-30,Minnesota,-130
+2022-01-31,L.A. Clippers,-110
+2022-01-31,Indiana,-110
+2022-01-31,Memphis,-160
+2022-01-31,Philadelphia,140
+2022-01-31,New Orleans,160
+2022-01-31,Cleveland,-180
+2022-01-31,Toronto,-130
+2022-01-31,Atlanta,110
+2022-01-31,Sacramento,230
+2022-01-31,New York,-280
+2022-01-31,Miami,210
+2022-01-31,Boston,-250
+2022-01-31,Golden State,-500
+2022-01-31,Houston,375
+2022-01-31,Portland,-160
+2022-01-31,Oklahoma City,140
+2022-02-01,New Orleans,-140
+2022-02-01,Detroit,120
+2022-02-01,Washington,500
+2022-02-01,Milwaukee,-700
+2022-02-01,Miami,105
+2022-02-01,Toronto,-125
+2022-02-01,Orlando,275
+2022-02-01,Chicago,-350
+2022-02-01,Denver,-105
+2022-02-01,Minnesota,-115
+2022-02-01,Golden State,220
+2022-02-01,San Antonio,-270
+2022-02-01,Brooklyn,230
+2022-02-01,Phoenix,-280
+2022-02-02,Washington,375
+2022-02-02,Philadelphia,-500
+2022-02-02,Orlando,140
+2022-02-02,Indiana,-160
+2022-02-02,Charlotte,200
+2022-02-02,Boston,-240
+2022-02-02,Memphis,-170
+2022-02-02,New York,150
+2022-02-02,Cleveland,-192
+2022-02-02,Houston,167
+2022-02-02,Oklahoma City,600
+2022-02-02,Dallas,-900
+2022-02-02,Brooklyn,-200
+2022-02-02,Sacramento,170
+2022-02-02,Denver,210
+2022-02-02,Utah,-250
+2022-02-02,Portland,150
+2022-02-02,L.A. Lakers,-170
+2022-02-03,Miami,-315
+2022-02-03,San Antonio,255
+2022-02-03,Minnesota,-320
+2022-02-03,Detroit,260
+2022-02-03,Phoenix,-150
+2022-02-03,Atlanta,130
+2022-02-03,Chicago,165
+2022-02-03,Toronto,-185
+2022-02-03,Sacramento,750
+2022-02-03,Golden State,-1200
+2022-02-03,L.A. Lakers,140
+2022-02-03,L.A. Clippers,-160
+2022-02-04,Chicago,-120
+2022-02-04,Indiana,100
+2022-02-04,Boston,-500
+2022-02-04,Detroit,375
+2022-02-04,Cleveland,220
+2022-02-04,Charlotte,-270
+2022-02-04,Atlanta,110
+2022-02-04,Toronto,-130
+2022-02-04,Houston,260
+2022-02-04,San Antonio,-320
+2022-02-04,Brooklyn,180
+2022-02-04,Utah,-220
+2022-02-04,New Orleans,175
+2022-02-04,Denver,-210
+2022-02-04,Philadelphia,-125
+2022-02-04,Dallas,105
+2022-02-04,Oklahoma City,190
+2022-02-04,Portland,-230
+2022-02-05,Memphis,-350
+2022-02-05,Orlando,275
+2022-02-05,Phoenix,-360
+2022-02-05,Washington,280
+2022-02-05,Miami,-145
+2022-02-05,Charlotte,125
+2022-02-05,New York,175
+2022-02-05,L.A. Lakers,-210
+2022-02-05,Milwaukee,-550
+2022-02-05,Portland,425
+2022-02-05,Oklahoma City,260
+2022-02-05,Sacramento,-320
+2022-02-06,Detroit,600
+2022-02-06,Minnesota,-900
+2022-02-06,Brooklyn,270
+2022-02-06,Denver,-340
+2022-02-06,Philadelphia,-170
+2022-02-06,Chicago,150
+2022-02-06,Atlanta,-130
+2022-02-06,Dallas,110
+2022-02-06,Indiana,225
+2022-02-06,Cleveland,-275
+2022-02-06,Boston,-425
+2022-02-06,Orlando,325
+2022-02-06,New Orleans,-260
+2022-02-06,Houston,215
+2022-02-06,Milwaukee,-210
+2022-02-06,L.A. Clippers,175
+2022-02-07,Miami,-300
+2022-02-07,Washington,240
+2022-02-07,Toronto,-115
+2022-02-07,Charlotte,-105
+2022-02-07,Golden State,-800
+2022-02-07,Oklahoma City,550
+2022-02-07,Phoenix,-270
+2022-02-07,Chicago,220
+2022-02-07,New York,235
+2022-02-07,Utah,-290
+2022-02-08,Phoenix,100
+2022-02-08,Philadelphia,-120
+2022-02-08,Boston,-500
+2022-02-08,Brooklyn,375
+2022-02-08,Indiana,600
+2022-02-08,Atlanta,-900
+2022-02-08,Houston,290
+2022-02-08,New Orleans,-370
+2022-02-08,L.A. Clippers,260
+2022-02-08,Memphis,-320
+2022-02-08,Detroit,425
+2022-02-08,Dallas,-550
+2022-02-08,New York,310
+2022-02-08,Denver,-390
+2022-02-08,Orlando,-120
+2022-02-08,Portland,100
+2022-02-08,Milwaukee,-175
+2022-02-08,L.A. Lakers,155
+2022-02-08,Minnesota,-340
+2022-02-08,Sacramento,270
+2022-02-09,San Antonio,215
+2022-02-09,Cleveland,-260
+2022-02-09,Chicago,-125
+2022-02-09,Charlotte,105
+2022-02-09,Toronto,-600
+2022-02-09,Oklahoma City,450
+2022-02-09,L.A. Lakers,-425
+2022-02-09,Portland,325
+2022-02-09,Minnesota,-300
+2022-02-09,Sacramento,240
+2022-02-09,Golden State,-105
+2022-02-09,Utah,-115
+2022-02-10,Memphis,-700
+2022-02-10,Detroit,500
+2022-02-10,Brooklyn,-105
+2022-02-10,Washington,-115
+2022-02-10,Miami,-170
+2022-02-10,New Orleans,150
+2022-02-10,Toronto,-320
+2022-02-10,Houston,260
+2022-02-10,L.A. Clippers,210
+2022-02-10,Dallas,-250
+2022-02-10,New York,325
+2022-02-10,Golden State,-425
+2022-02-10,Milwaukee,130
+2022-02-10,Phoenix,-150
+2022-02-11,Charlotte,-250
+2022-02-11,Detroit,210
+2022-02-11,Cleveland,-250
+2022-02-11,Indiana,210
+2022-02-11,Oklahoma City,700
+2022-02-11,Philadelphia,-1100
+2022-02-11,San Antonio,310
+2022-02-11,Atlanta,-390
+2022-02-11,Denver,220
+2022-02-11,Boston,-270
+2022-02-11,Minnesota,-105
+2022-02-11,Chicago,-115
+2022-02-11,Orlando,600
+2022-02-11,Utah,-900
+2022-02-12,New York,-175
+2022-02-12,Portland,155
+2022-02-12,Sacramento,-155
+2022-02-12,Washington,135
+2022-02-12,San Antonio,210
+2022-02-12,New Orleans,-250
+2022-02-12,Memphis,-280
+2022-02-12,Charlotte,230
+2022-02-12,Denver,175
+2022-02-12,Toronto,-210
+2022-02-12,Cleveland,120
+2022-02-12,Philadelphia,-140
+2022-02-12,Brooklyn,475
+2022-02-12,Miami,-650
+2022-02-12,Oklahoma City,475
+2022-02-12,Chicago,-650
+2022-02-12,L.A. Lakers,210
+2022-02-12,Golden State,-250
+2022-02-12,L.A. Clippers,225
+2022-02-12,Dallas,-275
+2022-02-12,Orlando,1100
+2022-02-12,Phoenix,-1800
+2022-02-13,Atlanta,240
+2022-02-13,Boston,-300
+2022-02-13,Minnesota,-300
+2022-02-13,Indiana,240
+2022-02-14,Detroit,140
+2022-02-14,Washington,-160
+2022-02-14,Oklahoma City,400
+2022-02-14,New York,-525
+2022-02-14,Sacramento,-130
+2022-02-14,Brooklyn,110
+2022-02-14,Portland,500
+2022-02-14,Milwaukee,-700
+2022-02-14,San Antonio,130
+2022-02-14,Chicago,-150
+2022-02-14,Toronto,-160
+2022-02-14,New Orleans,140
+2022-02-14,Orlando,475
+2022-02-14,Denver,-650
+2022-02-14,Houston,1000
+2022-02-14,Utah,-1700
+2022-02-14,Golden State,-240
+2022-02-14,L.A. Clippers,200
+2022-02-15,Dallas,170
+2022-02-15,Miami,-200
+2022-02-15,Cleveland,115
+2022-02-15,Atlanta,-135
+2022-02-15,Boston,-135
+2022-02-15,Philadelphia,115
+2022-02-15,Indiana,750
+2022-02-15,Milwaukee,-1200
+2022-02-15,Charlotte,205
+2022-02-15,Minnesota,-245
+2022-02-15,Memphis,-160
+2022-02-15,New Orleans,140
+2022-02-15,L.A. Clippers,625
+2022-02-15,Phoenix,-950
+2022-02-16,Atlanta,-210
+2022-02-16,Orlando,175
+2022-02-16,Washington,-105
+2022-02-16,Indiana,-115
+2022-02-16,Detroit,550
+2022-02-16,Boston,-800
+2022-02-16,Brooklyn,170
+2022-02-16,New York,-200
+2022-02-16,Toronto,-110
+2022-02-16,Minnesota,-110
+2022-02-16,San Antonio,-350
+2022-02-16,Oklahoma City,275
+2022-02-16,Sacramento,190
+2022-02-16,Chicago,-230
+2022-02-16,Portland,575
+2022-02-16,Memphis,-850
+2022-02-16,Houston,1000
+2022-02-16,Phoenix,-1700
+2022-02-16,Denver,175
+2022-02-16,Golden State,-210
+2022-02-16,Utah,-170
+2022-02-16,L.A. Lakers,150
+2022-02-17,Miami,-175
+2022-02-17,Charlotte,155
+2022-02-17,Washington,167
+2022-02-17,Brooklyn,-192
+2022-02-17,Dallas,-145
+2022-02-17,New Orleans,125
+2022-02-17,Philadelphia,220
+2022-02-17,Milwaukee,-270
+2022-02-17,Houston,400
+2022-02-17,L.A. Clippers,-525
+2022-02-20,Team Durant East,-225
+2022-02-20,Team LeBron West,185
+2022-02-24,Cleveland,-240
+2022-02-24,Detroit,200
+2022-02-24,Boston,-400
+2022-02-24,Brooklyn,320
+2022-02-24,Memphis,-135
+2022-02-24,Minnesota,115
+2022-02-24,Phoenix,-550
+2022-02-24,Oklahoma City,425
+2022-02-24,Atlanta,135
+2022-02-24,Chicago,-155
+2022-02-24,Denver,-175
+2022-02-24,Sacramento,155
+2022-02-24,Golden State,-500
+2022-02-24,Portland,375
+2022-02-25,L.A. Clippers,125
+2022-02-25,L.A. Lakers,-145
+2022-02-25,Houston,140
+2022-02-25,Orlando,-160
+2022-02-25,San Antonio,-160
+2022-02-25,Washington,140
+2022-02-25,Oklahoma City,260
+2022-02-25,Indiana,-320
+2022-02-25,Toronto,-135
+2022-02-25,Charlotte,115
+2022-02-25,Miami,-235
+2022-02-25,New York,195
+2022-02-25,Philadelphia,-140
+2022-02-25,Minnesota,120
+2022-02-25,Dallas,200
+2022-02-25,Utah,-240
+2022-02-25,New Orleans,215
+2022-02-25,Phoenix,-260
+2022-02-26,Boston,-650
+2022-02-26,Detroit,475
+2022-02-26,Toronto,185
+2022-02-26,Atlanta,-225
+2022-02-26,Washington,275
+2022-02-26,Cleveland,-350
+2022-02-26,San Antonio,320
+2022-02-26,Miami,-400
+2022-02-26,Memphis,-125
+2022-02-26,Chicago,105
+2022-02-26,Brooklyn,375
+2022-02-26,Milwaukee,-500
+2022-02-26,Sacramento,275
+2022-02-26,Denver,-350
+2022-02-27,Philadelphia,-340
+2022-02-27,New York,270
+2022-02-27,Utah,-140
+2022-02-27,Phoenix,120
+2022-02-27,Boston,-450
+2022-02-27,Indiana,350
+2022-02-27,L.A. Clippers,-270
+2022-02-27,Houston,220
+2022-02-27,Detroit,425
+2022-02-27,Charlotte,-550
+2022-02-27,Dallas,140
+2022-02-27,Golden State,-160
+2022-02-27,Denver,-340
+2022-02-27,Portland,270
+2022-02-27,New Orleans,-105
+2022-02-27,L.A. Lakers,-115
+2022-02-28,Minnesota,-165
+2022-02-28,Cleveland,145
+2022-02-28,Indiana,120
+2022-02-28,Orlando,-140
+2022-02-28,Toronto,-150
+2022-02-28,Brooklyn,130
+2022-02-28,Chicago,167
+2022-02-28,Miami,-192
+2022-02-28,Charlotte,425
+2022-02-28,Milwaukee,-550
+2022-02-28,San Antonio,290
+2022-02-28,Memphis,-370
+2022-02-28,Sacramento,-210
+2022-02-28,Oklahoma City,175
+2022-03-01,Detroit,130
+2022-03-01,Washington,-150
+2022-03-01,Atlanta,215
+2022-03-01,Boston,-260
+2022-03-01,Brooklyn,275
+2022-03-01,Toronto,-350
+2022-03-01,L.A. Clippers,-275
+2022-03-01,Houston,225
+2022-03-01,Golden State,-150
+2022-03-01,Minnesota,130
+2022-03-01,Dallas,-200
+2022-03-01,L.A. Lakers,170
+2022-03-02,Utah,-950
+2022-03-02,Houston,625
+2022-03-02,Indiana,100
+2022-03-02,Orlando,-120
+2022-03-02,Charlotte,135
+2022-03-02,Cleveland,-155
+2022-03-02,New York,450
+2022-03-02,Philadelphia,-600
+2022-03-02,Sacramento,210
+2022-03-02,New Orleans,-250
+2022-03-02,Miami,155
+2022-03-02,Milwaukee,-175
+2022-03-02,Oklahoma City,700
+2022-03-02,Denver,-1100
+2022-03-02,Portland,650
+2022-03-02,Phoenix,-1000
+2022-03-04,Atlanta,-175
+2022-03-04,Washington,155
+2022-03-04,Indiana,-145
+2022-03-04,Detroit,125
+2022-03-04,Orlando,280
+2022-03-04,Toronto,-360
+2022-03-04,Milwaukee,-200
+2022-03-04,Chicago,170
+2022-03-04,Utah,-170
+2022-03-04,New Orleans,150
+2022-03-04,Minnesota,-425
+2022-03-04,Oklahoma City,325
+2022-03-04,Houston,700
+2022-03-04,Denver,-1100
+2022-03-04,New York,245
+2022-03-04,Phoenix,-305
+2022-03-04,Cleveland,250
+2022-03-04,Philadelphia,-310
+2022-03-05,Sacramento,250
+2022-03-05,Dallas,-310
+2022-03-05,San Antonio,150
+2022-03-05,Charlotte,-170
+2022-03-05,Philadelphia,165
+2022-03-05,Miami,-185
+2022-03-05,Portland,750
+2022-03-05,Minnesota,-1200
+2022-03-05,Orlando,1000
+2022-03-05,Memphis,-1700
+2022-03-05,Golden State,-245
+2022-03-05,L.A. Lakers,205
+2022-03-06,Brooklyn,140
+2022-03-06,Boston,-160
+2022-03-06,Phoenix,350
+2022-03-06,Milwaukee,-450
+2022-03-06,Indiana,155
+2022-03-06,Washington,-175
+2022-03-06,Houston,525
+2022-03-06,Memphis,-750
+2022-03-06,Utah,-900
+2022-03-06,Oklahoma City,600
+2022-03-06,Toronto,175
+2022-03-06,Cleveland,-210
+2022-03-06,New Orleans,150
+2022-03-06,Denver,-170
+2022-03-06,New York,170
+2022-03-06,L.A. Clippers,-200
+2022-03-07,Atlanta,-315
+2022-03-07,Detroit,255
+2022-03-07,Chicago,240
+2022-03-07,Philadelphia,-300
+2022-03-07,Houston,950
+2022-03-07,Miami,-1600
+2022-03-07,Portland,750
+2022-03-07,Minnesota,-1200
+2022-03-07,Utah,-110
+2022-03-07,Dallas,-110
+2022-03-07,L.A. Lakers,200
+2022-03-07,San Antonio,-240
+2022-03-07,Golden State,275
+2022-03-07,Denver,-350
+2022-03-07,New York,150
+2022-03-07,Sacramento,-170
+2022-03-08,Brooklyn,-160
+2022-03-08,Charlotte,140
+2022-03-08,Phoenix,-230
+2022-03-08,Orlando,190
+2022-03-08,Cleveland,-155
+2022-03-08,Indiana,135
+2022-03-08,New Orleans,185
+2022-03-08,Memphis,-225
+2022-03-08,Milwaukee,-1000
+2022-03-08,Oklahoma City,650
+2022-03-08,L.A. Clippers,190
+2022-03-08,Golden State,-230
+2022-03-10,Brooklyn,145
+2022-03-10,Philadelphia,-165
+2022-03-10,Golden State,-120
+2022-03-10,Denver,100
+2022-03-11,Minnesota,-370
+2022-03-11,Orlando,290
+2022-03-11,L.A. Clippers,250
+2022-03-11,Atlanta,-310
+2022-03-11,Detroit,800
+2022-03-11,Boston,-1300
+2022-03-11,Cleveland,275
+2022-03-11,Miami,-350
+2022-03-11,Dallas,-600
+2022-03-11,Houston,450
+2022-03-11,New York,350
+2022-03-11,Memphis,-450
+2022-03-11,Charlotte,-150
+2022-03-11,New Orleans,130
+2022-03-11,Utah,-225
+2022-03-11,San Antonio,185
+2022-03-11,Toronto,210
+2022-03-11,Phoenix,-250
+2022-03-11,Washington,165
+2022-03-11,L.A. Lakers,-185
+2022-03-12,Minnesota,150
+2022-03-12,Miami,-170
+2022-03-12,Indiana,105
+2022-03-12,San Antonio,-125
+2022-03-12,Cleveland,170
+2022-03-12,Chicago,-200
+2022-03-12,Milwaukee,-130
+2022-03-12,Golden State,110
+2022-03-12,Toronto,235
+2022-03-12,Denver,-290
+2022-03-12,Sacramento,325
+2022-03-12,Utah,-425
+2022-03-12,Washington,-280
+2022-03-12,Portland,230
+2022-03-13,New York,180
+2022-03-13,Brooklyn,-220
+2022-03-13,L.A. Clippers,-175
+2022-03-13,Detroit,155
+2022-03-13,Dallas,235
+2022-03-13,Boston,-290
+2022-03-13,Philadelphia,-650
+2022-03-13,Orlando,475
+2022-03-13,Memphis,-1300
+2022-03-13,Oklahoma City,800
+2022-03-13,Indiana,525
+2022-03-13,Atlanta,-750
+2022-03-13,Houston,220
+2022-03-13,New Orleans,-270
+2022-03-13,L.A. Lakers,260
+2022-03-13,Phoenix,-320
+2022-03-14,L.A. Clippers,250
+2022-03-14,Cleveland,-310
+2022-03-14,Denver,145
+2022-03-14,Philadelphia,-165
+2022-03-14,Portland,650
+2022-03-14,Atlanta,-1000
+2022-03-14,Charlotte,-600
+2022-03-14,Oklahoma City,450
+2022-03-14,Minnesota,-170
+2022-03-14,San Antonio,150
+2022-03-14,Chicago,-185
+2022-03-14,Sacramento,165
+2022-03-14,Washington,525
+2022-03-14,Golden State,-750
+2022-03-14,Milwaukee,110
+2022-03-14,Utah,-130
+2022-03-14,Toronto,-180
+2022-03-14,L.A. Lakers,160
+2022-03-15,Brooklyn,-525
+2022-03-15,Orlando,400
+2022-03-15,Memphis,-270
+2022-03-15,Indiana,220
+2022-03-15,Detroit,750
+2022-03-15,Miami,-1200
+2022-03-15,Phoenix,-185
+2022-03-15,New Orleans,165
+2022-03-16,Atlanta,-105
+2022-03-16,Charlotte,-115
+2022-03-16,Philadelphia,-175
+2022-03-16,Cleveland,155
+2022-03-16,Denver,-245
+2022-03-16,Washington,205
+2022-03-16,Portland,550
+2022-03-16,New York,-800
+2022-03-16,Dallas,-145
+2022-03-16,Brooklyn,125
+2022-03-16,Phoenix,-550
+2022-03-16,Houston,425
+2022-03-16,L.A. Lakers,300
+2022-03-16,Minnesota,-380
+2022-03-16,Oklahoma City,525
+2022-03-16,San Antonio,-750
+2022-03-16,Chicago,220
+2022-03-16,Utah,-270
+2022-03-16,Milwaukee,-400
+2022-03-16,Sacramento,320
+2022-03-16,Boston,105
+2022-03-16,Golden State,-125
+2022-03-16,Toronto,-130
+2022-03-16,L.A. Clippers,110
+2022-03-17,Detroit,130
+2022-03-17,Orlando,-150
+2022-03-18,Dallas,155
+2022-03-18,Philadelphia,-175
+2022-03-18,Washington,200
+2022-03-18,New York,-240
+2022-03-18,Denver,-145
+2022-03-18,Cleveland,125
+2022-03-18,L.A. Lakers,300
+2022-03-18,Toronto,-380
+2022-03-18,Portland,800
+2022-03-18,Brooklyn,-1300
+2022-03-18,Memphis,-250
+2022-03-18,Atlanta,210
+2022-03-18,Indiana,-170
+2022-03-18,Houston,150
+2022-03-18,Oklahoma City,900
+2022-03-18,Miami,-1500
+2022-03-18,New Orleans,105
+2022-03-18,San Antonio,-125
+2022-03-18,L.A. Clippers,185
+2022-03-18,Utah,-225
+2022-03-18,Boston,-550
+2022-03-18,Sacramento,425
+2022-03-18,Chicago,170
+2022-03-18,Phoenix,-200
+2022-03-19,Milwaukee,130
+2022-03-19,Minnesota,-150
+2022-03-19,Dallas,120
+2022-03-19,Charlotte,-140
+2022-03-19,L.A. Lakers,-120
+2022-03-19,Washington,100
+2022-03-19,Detroit,205
+2022-03-19,Cleveland,-245
+2022-03-20,Portland,265
+2022-03-20,Indiana,-330
+2022-03-20,Memphis,-750
+2022-03-20,Houston,525
+2022-03-20,New Orleans,170
+2022-03-20,Atlanta,-200
+2022-03-20,Oklahoma City,270
+2022-03-20,Orlando,-340
+2022-03-20,Phoenix,-360
+2022-03-20,Sacramento,280
+2022-03-20,Utah,-160
+2022-03-20,New York,140
+2022-03-20,Boston,-140
+2022-03-20,Denver,120
+2022-03-20,San Antonio,225
+2022-03-20,Golden State,-275
+2022-03-20,Toronto,265
+2022-03-20,Philadelphia,-330
+2022-03-21,Portland,350
+2022-03-21,Detroit,-450
+2022-03-21,L.A. Lakers,170
+2022-03-21,Cleveland,-200
+2022-03-21,New Orleans,180
+2022-03-21,Charlotte,-220
+2022-03-21,Miami,-350
+2022-03-21,Philadelphia,275
+2022-03-21,Utah,-130
+2022-03-21,Brooklyn,110
+2022-03-21,Washington,-160
+2022-03-21,Houston,140
+2022-03-21,Toronto,145
+2022-03-21,Chicago,-165
+2022-03-21,Boston,-1100
+2022-03-21,Oklahoma City,700
+2022-03-21,Minnesota,100
+2022-03-21,Dallas,-120
+2022-03-22,Golden State,-315
+2022-03-22,Orlando,255
+2022-03-22,Atlanta,-165
+2022-03-22,New York,145
+2022-03-22,Chicago,225
+2022-03-22,Milwaukee,-275
+2022-03-22,L.A. Clippers,220
+2022-03-22,Denver,-270
+2022-03-23,Atlanta,-200
+2022-03-23,Detroit,170
+2022-03-23,New York,280
+2022-03-23,Charlotte,-360
+2022-03-23,Sacramento,210
+2022-03-23,Indiana,-250
+2022-03-23,Golden State,375
+2022-03-23,Miami,-500
+2022-03-23,Brooklyn,-110
+2022-03-23,Memphis,-110
+2022-03-23,Utah,170
+2022-03-23,Boston,-200
+2022-03-23,Phoenix,105
+2022-03-23,Minnesota,-125
+2022-03-23,Orlando,-135
+2022-03-23,Oklahoma City,115
+2022-03-23,Houston,375
+2022-03-23,Dallas,-500
+2022-03-23,Philadelphia,-425
+2022-03-23,L.A. Lakers,325
+2022-03-23,San Antonio,-450
+2022-03-23,Portland,350
+2022-03-24,Cleveland,180
+2022-03-24,Toronto,-220
+2022-03-24,Chicago,135
+2022-03-24,New Orleans,-155
+2022-03-24,Washington,310
+2022-03-24,Milwaukee,-390
+2022-03-24,Indiana,475
+2022-03-24,Memphis,-650
+2022-03-24,Phoenix,-105
+2022-03-24,Denver,-115
+2022-03-25,Utah,-170
+2022-03-25,Charlotte,150
+2022-03-25,Washington,155
+2022-03-25,Detroit,-175
+2022-03-25,Golden State,105
+2022-03-25,Atlanta,-125
+2022-03-25,New York,350
+2022-03-25,Miami,-450
+2022-03-25,Dallas,145
+2022-03-25,Minnesota,-165
+2022-03-25,Houston,-180
+2022-03-25,Portland,160
+2022-03-25,Philadelphia,-220
+2022-03-25,L.A. Clippers,180
+2022-03-26,Indiana,525
+2022-03-26,Toronto,-750
+2022-03-26,Brooklyn,-140
+2022-03-26,Miami,120
+2022-03-26,Milwaukee,-115
+2022-03-26,Memphis,-105
+2022-03-26,Chicago,110
+2022-03-26,Cleveland,-130
+2022-03-26,Oklahoma City,1000
+2022-03-26,Denver,-1700
+2022-03-26,San Antonio,200
+2022-03-26,New Orleans,-240
+2022-03-26,Sacramento,120
+2022-03-26,Orlando,-140
+2022-03-26,Houston,-175
+2022-03-26,Portland,155
